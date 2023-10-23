@@ -195,3 +195,4 @@ animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-chi
 animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.list-movie-filter.SearchMovies:nth-child(3) > div.schedule-title-main:nth-child(2)
 animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.TpRwCont:last-child > aside.widget-area:last-child
 ||vipads.live
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-header:nth-child(2)
