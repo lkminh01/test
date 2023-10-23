@@ -194,3 +194,4 @@ animevietsub.fan###mobile-catfixx
 animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.header-mobile:first-child
 animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.list-movie-filter.SearchMovies:nth-child(3) > div.schedule-title-main:nth-child(2)
 animevietsub.fan###Tp-Wp > div.Body.Container:last-child > div.Content:first-child > div.Adv.ad-center-980:last-child > div.TpRwCont:last-child > aside.widget-area:last-child
+||vipads.live
