@@ -22,3 +22,5 @@ animevietsub.fan###watch-block > center:last-child
 animevietsub.fan##.watch-notice
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:nth-child(6) > div.social-button:first-child
 animevietsub.fan##.Footer
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > span.Button.MenuBtn.AAShwHdd-lnk.CXHd:nth-child(2)
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:nth-child(7) > div.social-button:first-child
