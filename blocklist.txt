@@ -74,8 +74,10 @@ nettruyenus.com###ctl00_divCenter > div.reading > div.container:first-child > di
 nettruyenus.com##.comment
 nettruyenus.com##.facebook-like
 nettruyenus.com##.footer
-nettruyenus.com###aspnetForm > div.navbar-collapse:nth-child(8) > div.Module.Module-144:nth-child(2)
-nettruyenus.com###aspnetForm > div.navbar-collapse:nth-child(8) > ul.nav-account.list-inline:last-child
+nettruyenus.com##.rating.row
+nettruyenus.com##.navbar-collapse > .Module-144.Module
+nettruyenus.com##.navbar-collapse > .list-inline.nav-account
+nettruyenus.com##.btn-success.btn.follow-link
 truyenqqvn.com##.logo
 truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2) > ul:nth-child(2) > li:nth-child(2)
 truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2) > ul:nth-child(2) > li:last-child
