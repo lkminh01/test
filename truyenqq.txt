@@ -1,5 +1,3 @@
-truyenqqvn.com##.logo
-truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2)
 
 truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.hero:first-child
 truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.schedule:nth-child(2)
