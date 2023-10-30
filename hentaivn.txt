@@ -1,0 +1,54 @@
+hentaivn.tv##.nav-login
+
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:first-child
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(2)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(5)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(6)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:nth-child(7)
+hentaivn.tv##div.head-nav:nth-child(3) > ul.ul-nav > li.li-nav:last-child
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:first-child
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:nth-child(2)
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:nth-child(5)
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:nth-child(6)
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:nth-child(7)
+hentaivn.tv##div.head-nav:nth-child(30) > ul.ul-nav > li.li-nav:last-child
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:first-child
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:nth-child(2)
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:nth-child(5)
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:nth-child(6)
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:nth-child(7)
+hentaivn.tv##div.head-nav:nth-child(31) > ul.ul-nav > li.li-nav:last-child
+hentaivn.tv##div.container:nth-child(4) > div.main > p:nth-child(5)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.qx_main:nth-child(6)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-left:nth-child(10) > div.qx_main:first-child
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-left:nth-child(10) > div.block-item:nth-child(2)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-left:nth-child(10) > div.block-item:last-child
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-left:nth-child(10)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.qx_main2:first-child
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.block-right-top:nth-child(2)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.block-right-top:nth-child(3)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.main_xep:nth-child(5)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.main_xep:nth-child(6)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.main_xep:nth-child(7)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child > div.right-item:nth-child(8)
+hentaivn.tv##div.container:nth-child(4) > div.main > div.block-right:last-child
+hentaivn.tv##div.container:nth-child(31) > div.main > p:nth-child(5)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.qx_main:nth-child(6)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-left:nth-child(10) > div.qx_main:first-child
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-left:nth-child(10) > div.block-item:nth-child(2)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-left:nth-child(10) > div.block-item:last-child
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-left:nth-child(10)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.qx_main2:first-child
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.block-right-top:nth-child(2)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.block-right-top:nth-child(3)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.main_xep:nth-child(5)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.main_xep:nth-child(6)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.main_xep:nth-child(7)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child > div.right-item:nth-child(8)
+hentaivn.tv##div.container:nth-child(31) > div.main > div.block-right:last-child
+hentaivn.tv###showcmt
+hentaivn.tv##div.container:nth-child(4) > div.main:nth-child(2) > div.page-left:first-child > div.left-info:last-child
+hentaivn.tv##div.container:nth-child(32) > div.main:nth-child(2) > div.page-left:first-child > div.left-info:last-child
+hentaivn.tv##div.container:nth-child(4) > p:nth-child(4)
+hentaivn.tv##.bot-episode
+hentaivn.tv##.footer
