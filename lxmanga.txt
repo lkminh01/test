@@ -25,4 +25,4 @@ lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.
 lxmanga.net###mobile-catfish-2
 lxmanga.net###mobile-catfish-2 > div.sticky-footer-content
 lxmanga.net###mobile-catfish-3
-lxmanga.net###mobile-catfish-3 > div.sticky-footer-conten
+lxmanga.net###mobile-catfish-3 > div.sticky-footer-content
