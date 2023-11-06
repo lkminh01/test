@@ -24,3 +24,9 @@ lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:nth-child(5)
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:nth-child(6)
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:last-child
+lxmanga.net##div.preload-banner:nth-child(15)
+lxmanga.net##div.preload-banner:nth-child(16)
+lxmanga.net##div.preload-banner:nth-child(17)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(16)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(17)
+lxmanga.net##div.preload-backdrop.preload-smoke:nth-child(18)
