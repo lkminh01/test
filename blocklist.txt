@@ -170,7 +170,6 @@ hentaivn.tv##div.main:first-child > div.container:nth-child(7) > p:nth-child(4)
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:nth-child(11)
 hentaivn.tv##div.main:first-child > div.page-70:nth-child(10)
 hentaivn.tv##div.main:first-child > div.container:last-child > div.qx_135:nth-child(2)
-lxmanga.net###left-balloon
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.flex.items-center.justify-center:nth-child(2)
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.right-0.flex.items-center.pr-2.sm\:static.sm\:inset-auto:last-child > div.flex.truncate:last-child
 lxmanga.net###main-nav > div.hidden.md\:block.bg-stone-600.text-white.dark\:bg-stone-200.dark\:text-black.shadow-md.shadow-gray-300.dark\:shadow-gray-800:last-child > div.relative.max-w-7xl.mx-auto.w-full.px-3.h-12 > a.inline-block.h-full.px-3.hover\:bg-stone-400.pt-3.uppercase:first-child
@@ -195,10 +194,6 @@ lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:nth-child(5)
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:nth-child(6)
 lxmanga.net###main-nav > div.max-w-7xl.mx-auto.px-2.sm\:px-6.lg\:px-8.shadow-lg.md\:shadow-none:first-child > div.relative.flex.items-center.justify-between.h-16 > div.absolute.inset-y-0.left-0.flex.items-center.sm\:hidden:first-child > div.fixed.bg-gray-900.h-screen.w-\[100\%\].left-0.top-0.z-\[100\].shadow.overflow-y-auto:last-child > div.absolute.left-0.top-0.border-r-2.border-gray-100.dark\:border-gray-600.pb-3.bg-white.dark\:bg-gray-900 > ul:nth-child(3) > a:last-child
-lxmanga.net###mobile-catfish-2
-lxmanga.net###mobile-catfish-2 > div.sticky-footer-content > span.sticky-x-button:last-child
-lxmanga.net###mobile-catfish-3
-lxmanga.net###mobile-catfish-3 > div.sticky-footer-content > span.sticky-x-button:last-child
 7mmtv.sx##header.header:first-child > div.header-main:first-child > div.container > div.row.align-items-center.justify-content-between > div.col-auto:nth-child(2)
 7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item.toggle:nth-child(3)
 7mmtv.sx##header.header:first-child > nav.header-end.mmenu:last-child > div.container > ul.nav.header-nav > li.nav-item.toggle:nth-child(4)
