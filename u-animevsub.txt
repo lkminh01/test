@@ -1,5 +1,5 @@
 !
-animevietsub.fan##^.Logo
+animevietsub.fan##.Logo
 animevietsub.fan##^.Menu
 animevietsub.fan##^.Login
 animevietsub.fan##^.announcement
@@ -17,5 +17,6 @@ animevietsub.fan##^center
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
+animevietsub.fan##.CXHd.AAShwHdd-lnk.MenuBtn.Button
 !
 
