@@ -20,3 +20,4 @@
 7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.block.mb-4.mb-lg-5:nth-child(4) > div.mb-4.row.align-items-center:first-child > div.col-auto:first-child
 7mmtv.sx##main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.block.mb-4.mb-lg-5:nth-child(4) > div.mb-4.row.align-items-center:first-child > div.col-auto.ms-auto:last-child > a.btn.btn-pink.btn-sm:last-child
 7mmtv.sx##.col-related.col-12
+!
