@@ -24,3 +24,4 @@ nettruyenus.com##.rating.row
 nettruyenus.com##.navbar-collapse > .Module-144.Module
 nettruyenus.com##.navbar-collapse > .list-inline.nav-account
 nettruyenus.com##.btn-success.btn.follow-link
+!
