@@ -1,0 +1,19 @@
+hentaivn.tv##^div[class="nav-login"]
+hentaivn.tv##^a[class="a-nav"]
+hentaivn.tv##^a[class="a-nav a-drop-1"]
+hentaivn.tv##^div[class="qx_main"]
+hentaivn.tv##^p[style="width: 615px; font-size: 15px; text-align: center; background: #f1efef; color: #000; margin: 10px auto 0px; border: 0px solid #ccc; border-radius: 4px; font-weight: bold;"]
+hentaivn.tv##^ul[class="page-new"]
+hentaivn.tv##.bar-title-dark
+hentaivn.tv##^div[class="block-right"]
+hentaivn.tv##^.page_like
+hentaivn.tv##^div[id="showcmt"]
+hentaivn.tv##^a[href="/register.php"]
+hentaivn.tv##div.left-info:nth-of-type(3)
+hentaivn.tv##^p[style="width: 750px;font-size: 14px;text-align: center;color: #000;margin: 10px auto 0px;border-radius: 4px;background-image: -webkit-gradient(linear, left top, left bottom, from(#e2eef5), to(#ffffff));"]
+hentaivn.tv##^div[id="qxx"]
+hentaivn.tv##.right_ps > p
+hentaivn.tv##div.container:nth-child(3) > div.bot-episode:nth-child(11) > div.left-info:last-child > div.page-info
+hentaivn.tv##^div[class="footer"]
+!
+
