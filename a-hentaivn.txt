@@ -67,7 +67,6 @@ hentaivn.tv##div.main > div.page-70:nth-child(9)
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.qx_135:first-child
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:last-child > div.content-row > div.page-40-1:first-child > ul.content-navigation:last-child > iframe:nth-child(3)
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:last-child > div.content-row > div.size_80:nth-child(3)
-hentaivn.tv###showcmt
 hentaivn.tv##div.page-70:nth-child(2) > div.content-row-2:last-child
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > p:nth-child(4)
 hentaivn.tv##div.main:first-child > div.container:nth-child(7) > div.page-70:nth-child(11)
