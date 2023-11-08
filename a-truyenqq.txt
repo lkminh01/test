@@ -15,3 +15,4 @@ truyenqqvn.com###chapter_content > div.chapter_content_div.chapter_new_load > di
 truyenqqvn.com##footer
 truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.schedule:first-child
 truyenqqvn.com###ad_info
+!
