@@ -1,4 +1,4 @@
-! Title: Block List u
+! Title: Block List Ublock
 animevietsub.fan##.Logo
 animevietsub.fan##^.Menu
 animevietsub.fan##^.Login
