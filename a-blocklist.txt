@@ -1,4 +1,4 @@
-! Title: Block List
+! Title: Block List Adguard
 animevietsub.fan##.Logo
 animevietsub.fan##.Menu
 animevietsub.fan##.Login
