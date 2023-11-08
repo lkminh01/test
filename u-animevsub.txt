@@ -17,6 +17,6 @@ animevietsub.fan##^center
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
-animevietsub.fan##.CXHd.AAShwHdd-lnk.MenuBtn.Button
+animevietsub.fan##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 !
 
