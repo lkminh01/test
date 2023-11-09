@@ -13,5 +13,5 @@ truyenqqvn.com##^.mrt10.alert-info.alert
 truyenqqvn.com##^div#ad_info:nth-of-type(4)
 truyenqqvn.com##^.subscribeBook.btn-subscribe.is-rounded.is-danger.button
 truyenqqvn.com##^footer
+truyenqqvn.com##^#ad_info
 !
-
