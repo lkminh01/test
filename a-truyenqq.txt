@@ -3,7 +3,7 @@ truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.
 truyenqqvn.com##header:first-child > div.top:first-child > div.div_middle > div.right:nth-child(2) > ul:nth-child(2) > li:last-child
 truyenqqvn.com##.bottom
 truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.hero:first-child
-truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.main_content:last-child > section.schedule:nth-child(2)
+truyenqqvn.com##.schedule
 truyenqqvn.com##.homepage_suggest
 truyenqqvn.com##.homepage_tags
 truyenqqvn.com##div.content:nth-child(2) > div.div_middle:first-child > div.alert-note-fix:first-child
