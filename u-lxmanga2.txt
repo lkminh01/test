@@ -17,3 +17,11 @@ lxmanga.net##^h5.text-xl.mb-2.uppercase.font-semibold:first-child
 lxmanga.net##^div.grid.grid-cols-3.gap-4.mt-3:last-child
 lxmanga.net##^footer
 !
+lxmanga.net##.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
+lxmanga.net##.font-bold.truncate.grow
+lxmanga.net##^[href="/shop"]
+lxmanga.net##^[href="/my/pets"]
+lxmanga.net##^[href="/theo-doi"]
+lxmanga.net##^[href="/lich-su"]
+lxmanga.net##^[href="/my/achievements"]
+lxmanga.net##^[href="https://www.facebook.com/Shoplxer"]
