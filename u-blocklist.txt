@@ -63,7 +63,7 @@ nettruyenus.com##^.main-menu.navbar-nav.nav
 nettruyenus.com##^.list-inline.nav-account
 !
 truyenqqvn.com##^.logo
-truyenqqvn.com##^.top > .div_middle > .right
+truyenqqvn.com##^.right button
 truyenqqvn.com##^.bottom
 truyenqqvn.com##^.hero
 truyenqqvn.com##^.schedule
