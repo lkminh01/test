@@ -8,6 +8,7 @@ lxmanga.net##^.mt-4.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.b
 lxmanga.net##^div[class="border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
 lxmanga.net##^iframe[class="mt-4"]
 lxmanga.net##^nav[class="grid grid-cols-3 md:grid-cols-8"]
+lxmanga.net##^.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
 lxmanga.net##^.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
 lxmanga.net##^div[class="justify-between border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
 lxmanga.net##^label.inline-flex.items-center.cursor-pointer
