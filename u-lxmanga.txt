@@ -1,10 +1,17 @@
-! 2023-11-08 https://lxmanga.net
 lxmanga.net##^.justify-center.items-center.flex
 lxmanga.net##^.truncate.flex
-!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(1)
-!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(2)
-!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
-!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(6)
-!lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
-lxmanga.net##^a[class="inline-block h-full px-3 hover:bg-stone-400 pt-3 uppercase"]
+lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(2)
+lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
+lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(5)
+lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(6)
+lxmanga.net##^div[class="border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
+lxmanga.net##^iframe[class="mt-4"]
+lxmanga.net##^.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
+lxmanga.net##^div[class="justify-between border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
+lxmanga.net##^label.inline-flex.items-center.cursor-pointer
+lxmanga.net##^button.px-3.py-1.border-2.rounded-lg.dark\:border-gray-600.relative.hover\:bg-gray-200.dark\:hover\:bg-gray-700.w-full.mt-2:last-child
+lxmanga.net##^h5.text-xl.mb-2.uppercase.font-semibold:first-child
+lxmanga.net##^div.grid.grid-cols-3.gap-4.mt-3:last-child
+lxmanga.net##^footer
+!
 
