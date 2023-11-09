@@ -1,0 +1,10 @@
+! 2023-11-08 https://lxmanga.net
+lxmanga.net##^.justify-center.items-center.flex
+lxmanga.net##^.truncate.flex
+!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(1)
+!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(2)
+!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
+!lxmanga.net##^a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(6)
+!lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
+lxmanga.net##^a[class="inline-block h-full px-3 hover:bg-stone-400 pt-3 uppercase"]
+
