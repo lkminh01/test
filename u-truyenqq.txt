@@ -1,5 +1,5 @@
 truyenqqvn.com##^.logo
-truyenqqvn.com##^.top > .div_middle > .right
+truyenqqvn.com##^.right button
 truyenqqvn.com##^.bottom
 truyenqqvn.com##^.hero
 truyenqqvn.com##^.schedule
