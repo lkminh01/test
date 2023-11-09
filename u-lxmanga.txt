@@ -4,8 +4,10 @@ lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-o
 lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
 lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(5)
 lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(6)
+lxmanga.net##^.mt-4.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex
 lxmanga.net##^div[class="border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
 lxmanga.net##^iframe[class="mt-4"]
+lxmanga.net##^nav[class="grid grid-cols-3 md:grid-cols-8"]
 lxmanga.net##^.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
 lxmanga.net##^div[class="justify-between border-2 border-gray-100 dark:border-gray-600 p-3 bg-white dark:bg-gray-900 shadow-md rounded dark:shadow-gray-900"]
 lxmanga.net##^label.inline-flex.items-center.cursor-pointer
@@ -14,4 +16,3 @@ lxmanga.net##^h5.text-xl.mb-2.uppercase.font-semibold:first-child
 lxmanga.net##^div.grid.grid-cols-3.gap-4.mt-3:last-child
 lxmanga.net##^footer
 !
-
