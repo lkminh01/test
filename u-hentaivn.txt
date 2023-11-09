@@ -30,6 +30,6 @@ hentaivn.tv##^.qx_135
 hentaivn.tv##^.size_80
 hentaivn.tv##^.bookmark
 hentaivn.tv##^.content-row-2 > .content-info
-hentaivn.tv###inner-randommobile
+hentaivn.tv##^#inner-randommobile
 hentaivn.tv##^.green.page-title
 !
