@@ -20,5 +20,6 @@ nettruyenus.com##.btn-success.btn.follow-link
 nettruyenus.com##^div.row:nth-of-type(3)
 nettruyenus.com##^.comment
 nettruyenus.com##^.footer
+nettruyenus.com##^.main-menu.navbar-nav.nav
+nettruyenus.com##^.list-inline.nav-account
 !
-
