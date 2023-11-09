@@ -19,10 +19,10 @@ lxmanga.net##^footer
 lxmanga.net##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
 lxmanga.net##^.font-bold.truncate.grow
 lxmanga.net##^div.flex.font-bold.py-2.pl-3.dark\:text-black.dark\:bg-stone-200.text-white.bg-stone-600:nth-of-type(2)
-lxmanga.net##^[href="/shop"]
+lxmanga.net##^ul:nth-of-type(1) > [href="/shop"]
 lxmanga.net##^[href="/my/pets"]
-lxmanga.net##^[href="/theo-doi"]
-lxmanga.net##^[href="/lich-su"] > .dark\:hover\:bg-gray-600.hover\:bg-gray-300.dark\:border-gray-600.border-gray-300.border-b.pl-4.py-2.flex
+lxmanga.net##^ul:nth-of-type(1) > [href="/theo-doi"]
+lxmanga.net##^ul:nth-of-type(1) > [href="/lich-su"] > .dark\:hover\:bg-gray-600.hover\:bg-gray-300.dark\:border-gray-600.border-gray-300.border-b.pl-4.py-2.flex
 lxmanga.net##^[href="/my/achievements"]
 lxmanga.net##^[href="https://www.facebook.com/Shoplxer"]
 !
