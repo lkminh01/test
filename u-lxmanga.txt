@@ -1,4 +1,4 @@
-lxmanga.net##^.justify-center.items-center.flex
+lxmanga.net##^.items-center.flex.flex-shrink-0
 lxmanga.net##^.truncate.flex
 lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(2)
 lxmanga.net##a.uppercase.pt-3.hover\:bg-stone-400.px-3.h-full.inline-block:nth-of-type(3)
