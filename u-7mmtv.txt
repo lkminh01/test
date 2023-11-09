@@ -12,4 +12,4 @@
 7mmtv.sx##^.col-related.col-12 > .mb-lg-5.mb-4.block
 7mmtv.sx##^main.flex-grow-1:nth-child(2) > div.container-fluid > div.container > div.block.mb-4.mb-lg-5:last-child
 7mmtv.sx##^.footer
-
+!
