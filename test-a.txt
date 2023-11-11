@@ -1,4 +1,5 @@
-﻿animevietsub.fan^$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>//
+!﻿animevietsub.fan^$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>//
+animevietsub.fan##.Logo
 animevietsub.fan^$replace=/(<nav class="Menu"[\s\S]*?>)[\s\S]<\/nav>//
 animevietsub.fan^$replace=/(<div class="Login"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="announcement"[\s\S]*?>)[\s\S]*?<\/div>//
