@@ -1,3 +1,5 @@
+||animevietsub.fan/service_worker.js
+||animevietsub.fan$csp=worker-src 'none'
 animevietsub.fan##.Logo
 animevietsub.fan##^.Menu
 animevietsub.fan##^.Login
