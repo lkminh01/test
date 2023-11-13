@@ -1,6 +1,4 @@
-﻿||animevietsub.fan/service_worker.js$script
-||animevietsub.fan^$csp=worker-src 'none'
-animevietsub.fan##.Logo
+﻿animevietsub.fan##.Logo
 animevietsub.fan^$replace=/(<div class="Login"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="announcement"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="MovieListTopCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
