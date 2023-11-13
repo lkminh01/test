@@ -15,5 +15,5 @@ animevietsub.fan^$replace=/(<div class="fbcmt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/di
 animevietsub.fan^$replace=/(<div id="mv-keywords"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="Wdgt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
 animevietsub.fan###watch-block > center:last-child
-animevietsub.fan^$replace=/(<div class="watch-notice"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan##.watch-notice
 animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
