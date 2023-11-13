@@ -22,5 +22,4 @@ animevietsub.fan###links-backup > h3
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
-animevietsub.fan##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 !
