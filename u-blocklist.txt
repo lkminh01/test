@@ -23,7 +23,7 @@ animevietsub.fan###links-backup > h3
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
-animevietsub.fan##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
+!animevietsub.fan##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 !
 vuighe2.com##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-brand.h-\[50px\].w-\[200px\].s768\:w-\[180px\].flex.justify-between.shrink-0.s1280\:mr-2.s1366\:mr-3.z-50:first-child
 vuighe2.com##^div[class="navbar-item s768:h-[30px] dark:s768:border-gray-700 s768:border s768:rounded-full s768:hover:text-red-600 dark:s768:hover:text-teal-500 s768:order-1"]
