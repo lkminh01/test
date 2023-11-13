@@ -1,5 +1,3 @@
-||truyenqqvn.com/service_worker.js
-||truyenqqvn.com$csp=worker-src 'none'
 truyenqqvn.com##^.logo
 truyenqqvn.com##^.right button
 truyenqqvn.com##^.bottom
