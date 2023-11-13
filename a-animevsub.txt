@@ -29,8 +29,8 @@ animevietsub.fan###links-backup > h3:first-child
 animevietsub.fan##.server-name
 animevietsub.fan##.watch-notice
 animevietsub.fan##.Footer
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-header:nth-child(2)
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.Adv.ad-center-980:nth-child(2)
+animevietsub.fan##.ad-center-header.Adv
+animevietsub.fan##.ad-center-980.Adv
 animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-493:nth-child(2)
 animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-493:nth-child(3)
 animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-493:nth-child(4)
