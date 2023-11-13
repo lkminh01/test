@@ -1,3 +1,5 @@
+||hentaivn.tv/service_worker.js
+||hentaivn.tv$csp=worker-src 'none'
 hentaivn.tv##^div[class="nav-login"]
 hentaivn.tv##^a[class="a-nav"]
 hentaivn.tv##^a[class="a-nav a-drop-1"]
