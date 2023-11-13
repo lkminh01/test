@@ -1,7 +1,6 @@
 ﻿||animevietsub.fan/service_worker.js$script
 ||animevietsub.fan^$csp=worker-src 'none'
 animevietsub.fan##.Logo
-animevietsub.fan^$replace=/(<nav class="Menu"[\s\S]*?>)[\s\S]<\/nav>//
 animevietsub.fan^$replace=/(<div class="Login"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="announcement"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="MovieListTopCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
@@ -14,6 +13,13 @@ animevietsub.fan^$replace=/(<div class="social-button"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="fbcmt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div id="mv-keywords"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="Wdgt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<ol class="breadcrumb"[\s\S]*?>)[\s\S]<\/ol>//
+animevietsub.fan^$replace=/(<span class="History-notif"[\s\S]*?>)[\s\S]*?<\/span>//
 animevietsub.fan###watch-block > center:last-child
 animevietsub.fan##.watch-notice
 animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
+animevietsub.fan^$replace=/(<li id="menu-item-495"[\s\S]*?>)[\s\S]<\/li>//
+animevietsub.fan^$replace=/(<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-493"[\s\S]*?>)[\s\S]<\/li>//
+animevietsub.fan^$replace=/(<li id="menu-item-494"[\s\S]*?>)[\s\S]<\/li>//
+animevietsub.fan^$replace=/(<li id="menu-item-497"[\s\S]*?>)[\s\S]<\/li>//
+animevietsub.fan^$replace=/(<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"[\s\S]*?>)[\s\S]*?<\/li>//
