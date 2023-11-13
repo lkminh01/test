@@ -1,7 +1,11 @@
 ! Title: Block List uBlock
 animevietsub.fan##.Logo
-animevietsub.fan##^.Menu
 animevietsub.fan##^.Login
+animevietsub.fan##^.menu-item-495
+animevietsub.fan##^li[class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-493"]
+animevietsub.fan##^.menu-item-494
+animevietsub.fan##^.menu-item-497
+animevietsub.fan##^li[class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"]
 animevietsub.fan##^.announcement
 animevietsub.fan##^.MovieListTopCn
 animevietsub.fan##^.MovieListSldCn
@@ -9,11 +13,13 @@ animevietsub.fan##^.Top
 animevietsub.fan##^.widget-area
 animevietsub.fan##^section[id="new-home"]
 animevietsub.fan##^section[id="hot-home"]
+animevietsub.fan##^.breadcrumb
+animevietsub.fan##^.schedule-title-main
 animevietsub.fan##^.social-button
 animevietsub.fan##^.fbcmt
 animevietsub.fan##^div[id="mv-keywords"]
 animevietsub.fan##^.History-notif
-animevietsub.fan##^center
+animevietsub.fan###links-backup > h3
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
