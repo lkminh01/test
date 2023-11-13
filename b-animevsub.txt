@@ -1,0 +1,19 @@
+﻿||animevietsub.fan/service_worker.js$script
+||animevietsub.fan^$csp=worker-src 'none'
+animevietsub.fan^$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>//
+animevietsub.fan^$replace=/(<nav class="Menu"[\s\S]*?>)[\s\S]<\/nav>//
+animevietsub.fan^$replace=/(<div class="Login"[\s\S]*?>)[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="announcement"[\s\S]*?>)[\s\S]*?<\/div>//
+animevietsub.fan^$replace=/(<div class="MovieListTopCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="MovieListSldCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="Top"[\s\S]*?>)[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<section id="new-home"[\s\S]*?>)[\s\S]<\/section>//
+animevietsub.fan^$replace=/(<section id="hot-home"[\s\S]*?>)[\s\S]<\/section>//
+animevietsub.fan^$replace=/(<aside class="widget-area"[\s\S]*?>)[\s\S]<\/aside>//
+animevietsub.fan^$replace=/(<div class="social-button"[\s\S]*?>)[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="fbcmt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div id="mv-keywords"[\s\S]*?>)[\s\S]*?<\/div>//
+animevietsub.fan^$replace=/(<div class="Wdgt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan###watch-block > center:last-child
+animevietsub.fan^$replace=/(<div class="watch-notice"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
