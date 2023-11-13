@@ -1,3 +1,0 @@
-!animevietsub.fan^$replace=/<figure class="Logo"(.|\s)*?>(.|\s)<\/figure>//
-!anime47.com##.logo
-anime47.com^$replace=/<div class="header-logo"(.|\s)*?>(.|\s)<\/div>//
