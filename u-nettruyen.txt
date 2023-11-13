@@ -1,5 +1,5 @@
-||nettruyenus.com/service_worker.js$script
-||nettruyenus.com^$csp=worker-src 'none'
+||nettruyenus.com/service_worker.js
+||nettruyenus.com$csp=worker-src 'none'
 nettruyenus.com##^.logo
 nettruyenus.com##.notifications
 nettruyenus.com##^.pull-right.hidden-xs.list-inline.nav-account
