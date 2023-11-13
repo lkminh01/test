@@ -20,6 +20,7 @@ animevietsub.fan##^.fbcmt
 animevietsub.fan##^div[id="mv-keywords"]
 animevietsub.fan##^.History-notif
 animevietsub.fan###links-backup > h3
+animevietsub.fan##^.server-name
 animevietsub.fan##^.watch-notice
 animevietsub.fan##^div[class="Wdgt"]
 animevietsub.fan##^.Footer
