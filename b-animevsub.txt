@@ -1,25 +1,25 @@
-﻿animevietsub.fan##.Logo
+﻿animevietsub.fan^$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>//
+animevietsub.fan^$replace=/(<nav class="Menu"[\s\S]*?>)[\s\S]<\/nav>//
 animevietsub.fan^$replace=/(<div class="Login"[\s\S]*?>)[\s\S]<\/div>//
-animevietsub.fan^$replace=/(<li id="menu-item-495"[\s\S]*?>)[\s\S]<\/li>//
-animevietsub.fan^$replace=/(<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-493"[\s\S]*?>)[\s\S]<\/li>//
-animevietsub.fan^$replace=/(<li id="menu-item-494"[\s\S]*?>)[\s\S]<\/li>//
-animevietsub.fan^$replace=/(<li id="menu-item-497"[\s\S]*?>)[\s\S]<\/li>//
-animevietsub.fan^$replace=/(<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-493"[\s\S]*?>)[\s\S]*?<\/li>//
+animevietsub.fan^$replace=/(<div class="Adv ad-center-header"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="announcement"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="MovieListTopCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="MovieListSldCn"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="Ads home_ads"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="Top"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<section id="new-home"[\s\S]*?>)[\s\S]<\/section>//
 animevietsub.fan^$replace=/(<section id="hot-home"[\s\S]*?>)[\s\S]<\/section>//
 animevietsub.fan^$replace=/(<aside class="widget-area"[\s\S]*?>)[\s\S]<\/aside>//
+animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
+animevietsub.fan^$replace=/(<div class="schedule-title-main"[\s\S]*?>)[\s\S]*?<\/div>//
+animevietsub.fan^$replace=/(<div class="Adv ad-center-980"[\s\S]*?>)[\s\S]*?<\/div>//
+animevietsub.fan^$replace=/(<div class="ml-title ml-title-page"[\s\S]*?>)[\s\S]<\/div>/<div class="filter-toggle"><i class="fa fa-sort mr5"><\/i>Lọc Anime<\/div><div class="clearfix"><\/div>/
 animevietsub.fan^$replace=/(<div class="social-button"[\s\S]*?>)[\s\S]<\/div>//
-animevietsub.fan^$replace=/(<div class="fbcmt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>//
+animevietsub.fan^$replace=/(<div class="fbcmt"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div id="mv-keywords"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="Wdgt"[\s\S]*?>)[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>[\s\S]<\/div>//
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.list-movie-filter.SearchMovies:nth-child(2) > div.ml-title.ml-title-page:first-child > span:first-child
-animevietsub.fan##.schedule-title-main
-animevietsub.fan^$replace=/(<ol class="breadcrumb"[\s\S]*?>)[\s\S]<\/ol>//
-animevietsub.fan^$replace=/(<span class="History-notif"[\s\S]*?>)[\s\S]*?<\/span>//
+animevietsub.fan^$replace=/(<span class="History-notif"[\s\S]*?>)[\s\S]<\/span>//
+animevietsub.fan^$replace=/(<div class="watch-notice"[\s\S]*?>)[\s\S]<\/div>[\s\S]*?<\/div>[\s\S]<\/div>[\s\S]*?<\/div>[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<div class="MovieTabNav ControlPlayer"[\s\S]*?>)[\s\S]<\/div>//
-animevietsub.fan^$replace=/(<div class="alert alert-info"[\s\S]*?>)[\s\S]<\/div>//
-animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
+animevietsub.fan###links-backup > h3:first-child
+animevietsub.fan^$replace=/(<h3 class="server-name"[\s\S]*?>)[\s\S]*?<\/h3>//
