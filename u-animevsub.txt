@@ -1,4 +1,4 @@
-animevietsub.fan##^figure[class="Logo"]
+animevietsub.fan##figure[class="Logo"]
 animevietsub.fan##^li[id="menu-item-495"]
 animevietsub.fan##^li[class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-493"]
 animevietsub.fan##^li[id="menu-item-494"]
