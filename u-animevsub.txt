@@ -15,7 +15,6 @@ animevietsub.fan##^aside[class="widget-area"]
 animevietsub.fan##^div[class="Adv ad-center-header"]
 animevietsub.fan##^div[class="Adv ad-center-980"]
 animevietsub.fan##^div[class="pc_catfix_adv"]
-!
 animevietsub.fan##^ol[class="breadcrumb"]
 animevietsub.fan##^div[class="schedule-title-main"]
 animevietsub.fan##^div[class="social-button"]
@@ -27,7 +26,6 @@ animevietsub.fan##^div[class="Lnk AAIco-collections"]
 animevietsub.fan##^div[class="fbcmt"]
 animevietsub.fan##^div[id="mv-keywords"]
 animevietsub.fan##^div[class="Wdgt"]
-!
 animevietsub.fan##^span[class="History-notif"]
 animevietsub.fan##^div[class="MovieTabNav ControlPlayer"]
 animevietsub.fan###links-backup > h3
