@@ -1,12 +1,16 @@
-﻿bilibili.tv##.bstar-header__popovercommon
-bilibili.tv##.bstar-header__popover, .bstar-header__popover--show
+﻿! Title: Block List Adguard
+bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__left:first-child > button.bstar-header__left-menu:first-child
+bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__left:first-child > a.bstar-header__left-logo:last-child
+bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__actions:last-child > div.bstar-header__popovercommon:nth-child(2)
+bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__actions:last-child > div.bstar-header__popover.bstar-header__popover--show:nth-child(3)
+bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__actions:last-child > div.bstar-header__popover.bstar-header__popover--show:nth-child(4)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__actions:last-child > div.bstar-header__dropdown:nth-child(6)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > header.bstar-header:first-child > div.bstar-header__actions:last-child > div.bstar-header__dropdown:nth-child(7)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > nav.bstar-sidebar.bstar-sidebar--normal.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:first-child > li.bstar-sidebar__item.trending:nth-child(3)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > nav.bstar-sidebar.bstar-sidebar--normal.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:first-child > li.bstar-sidebar__item.live:last-child
+bilibili.tv##.bstar-sidebar__footer
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body.layout__body--toggle:last-child > nav.bstar-sidebar.bstar-sidebar--normal.bstar-sidebar--toggle.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:nth-child(2) > li.bstar-sidebar__item.trending:nth-child(3)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body.layout__body--toggle:last-child > nav.bstar-sidebar.bstar-sidebar--normal.bstar-sidebar--toggle.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:nth-child(2) > li.bstar-sidebar__item.live:last-child
-bilibili.tv##.bstar-sidebar__footer
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > div.home > section.card-section:last-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body.layout__body--play.layout__body--toggle:last-child > nav.bstar-sidebar.bstar-sidebar--collapsed.bstar-sidebar--toggle.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:nth-child(2) > li.bstar-sidebar__item.trending:nth-child(3)
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body.layout__body--play.layout__body--toggle:last-child > nav.bstar-sidebar.bstar-sidebar--collapsed.bstar-sidebar--toggle.bstar-sidebar--follows:first-child > ul.bstar-sidebar__list:nth-child(2) > li.bstar-sidebar__item.live:last-child
@@ -18,7 +22,8 @@ bilibili.tv##.video-play__breadcrumb
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.category > div.category__operate:first-child > ul.bstar-tab.bstar-tab--largeLine:first-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__tabs-wrapper:first-child > div.search-result__tabs > ul.bstar-tab.bstar-tab--largeLine > li.bstar-tab__item:last-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__main:last-child > ul.all-sheet:first-child > li.all-sheet__item.all-sheet__ugc:last-child
-animevietsub.fan##.Logo
+!
+﻿animevietsub.fan##.Logo
 animevietsub.fan##.Menu
 animevietsub.fan##.Login
 animevietsub.fan##.announcement
@@ -35,6 +40,7 @@ animevietsub.fan##.tools-box
 animevietsub.fan##.fbcmt
 animevietsub.fan###mv-keywords
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
+animevietsub.fan##.bellow_ads_player.Ads
 animevietsub.fan##.History-notif
 animevietsub.fan##.MovieTabNav, .ControlPlayer
 animevietsub.fan###links-backup > h3:first-child
@@ -42,6 +48,7 @@ animevietsub.fan##.server-name
 animevietsub.fan##.watch-notice
 animevietsub.fan##.VotesCn
 animevietsub.fan##.View, .AAIco-remove_red_eye
+animevietsub.fan##.ads_player.Ads
 animevietsub.fan##.Footer
 animevietsub.fan##.ad-center-header.Adv
 animevietsub.fan##.ad-center-980.Adv
