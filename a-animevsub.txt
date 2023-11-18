@@ -12,10 +12,6 @@ animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.l
 animevietsub.fan##.schedule-title-main
 animevietsub.fan##.social-button
 animevietsub.fan##.tools-box
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:first-child > footer.ClFx:nth-child(3) > div.VotesCn:first-child
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:first-child > footer.ClFx:nth-child(3) > p.Info:last-child > span.View.AAIco-remove_red_eye:last-child
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieInfo.TPost.Single:nth-child(2) > div.MovieTabNav:first-child > div.Lnk.AAIco-movie_filter:nth-child(2)
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieInfo.TPost.Single:nth-child(2) > div.MovieTabNav:first-child > div.Lnk.AAIco-video_call:nth-child(3)
 animevietsub.fan##.fbcmt
 animevietsub.fan###mv-keywords
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
