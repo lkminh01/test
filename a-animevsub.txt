@@ -1,10 +1,5 @@
 ﻿animevietsub.fan##.Logo
-animevietsub.fan###menu-item-495
-animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-custom.menu-item-object-custom.menu-item-has-children.menu-item-493:nth-child(3)
-animevietsub.fan###menu-item-494
-animevietsub.fan###menu-item-497
-animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-493:nth-child(6)
-animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > div.Rght.BgA:last-child > nav.Menu:last-child > ul > li.menu-item.menu-item-type-post_type.menu-item-object-page.menu-item-493:last-child
+animevietsub.fan##.Menu
 animevietsub.fan##.Login
 animevietsub.fan##.announcement
 animevietsub.fan##.MovieListTopCn
@@ -13,26 +8,26 @@ animevietsub.fan##.Top
 animevietsub.fan###new-home
 animevietsub.fan###hot-home
 animevietsub.fan##.widget-area
-animevietsub.fan##.ad-center-header.Adv
-animevietsub.fan##.ad-center-980.Adv
-animevietsub.fan##.pc_catfix_adv
-animevietsub.fan##.mb_catfix_adv
-animevietsub.fan##.breadcrumb
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.list-movie-filter.SearchMovies:nth-child(4) > div.ml-title.ml-title-page:first-child > span:first-child
 animevietsub.fan##.schedule-title-main
 animevietsub.fan##.social-button
 animevietsub.fan##.tools-box
-animevietsub.fan##.ClFx
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:first-child > footer.ClFx:nth-child(3) > div.VotesCn:first-child
+animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > article.TPost.Single:first-child > footer.ClFx:nth-child(3) > p.Info:last-child > span.View.AAIco-remove_red_eye:last-child
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieInfo.TPost.Single:nth-child(2) > div.MovieTabNav:first-child > div.Lnk.AAIco-movie_filter:nth-child(2)
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieInfo.TPost.Single:nth-child(2) > div.MovieTabNav:first-child > div.Lnk.AAIco-video_call:nth-child(3)
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.MovieInfo.TPost.Single:nth-child(2) > div.MovieTabNav:first-child > div.Lnk.AAIco-collections:last-child
-animevietsub.fan###MvTb-Info > div.mvici-left:first-child > ul.InfoList > li.AAIco-adjust:last-child
 animevietsub.fan##.fbcmt
 animevietsub.fan###mv-keywords
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
 animevietsub.fan##.History-notif
 animevietsub.fan##.MovieTabNav, .ControlPlayer
 animevietsub.fan###links-backup > h3:first-child
+animevietsub.fan##.server-name
 animevietsub.fan##.watch-notice
-animevietsub.fan###list-server > div.server.clearfix.server-group:last-child > h3.server-name:first-child
+animevietsub.fan##.VotesCn
+animevietsub.fan##.View, .AAIco-remove_red_eye
 animevietsub.fan##.Footer
-!
+animevietsub.fan##.ad-center-header.Adv
+animevietsub.fan##.ad-center-980.Adv
+animevietsub.fan##.pc-catfixx
+animevietsub.fan##.mobile-catfixx
