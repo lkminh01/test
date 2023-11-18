@@ -1,4 +1,4 @@
-animevietsub.fan##^[href="/"]
+animevietsub.fan##.Logo
 animevietsub.fan##^#menu-item-495
 animevietsub.fan##^.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
 animevietsub.fan##^#menu-item-494
