@@ -18,31 +18,3 @@ bilibili.tv##.video-play__breadcrumb
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.category > div.category__operate:first-child > ul.bstar-tab.bstar-tab--largeLine:first-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__tabs-wrapper:first-child > div.search-result__tabs > ul.bstar-tab.bstar-tab--largeLine > li.bstar-tab__item:last-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__main:last-child > ul.all-sheet:first-child > li.all-sheet__item.all-sheet__ugc:last-child
-animevietsub.fan##.Logo
-animevietsub.fan##.Menu
-animevietsub.fan##.Login
-animevietsub.fan##.announcement
-animevietsub.fan##.MovieListTopCn
-animevietsub.fan##.MovieListSldCn
-animevietsub.fan##.Top
-animevietsub.fan###new-home
-animevietsub.fan###hot-home
-animevietsub.fan##.widget-area
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.list-movie-filter.SearchMovies:nth-child(4) > div.ml-title.ml-title-page:first-child > span:first-child
-animevietsub.fan##.schedule-title-main
-animevietsub.fan##.social-button
-animevietsub.fan##.tools-box
-animevietsub.fan##.fbcmt
-animevietsub.fan###mv-keywords
-animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
-animevietsub.fan##.History-notif
-animevietsub.fan##.MovieTabNav, .ControlPlayer
-animevietsub.fan###links-backup > h3:first-child
-animevietsub.fan##.server-name
-animevietsub.fan##.watch-notice
-animevietsub.fan##.VotesCn
-animevietsub.fan##.View, .AAIco-remove_red_eye
-animevietsub.fan##.Footer
-animevietsub.fan##.ad-center-header.Adv
-animevietsub.fan##.ad-center-980.Adv
-animevietsub.fan##.pc-catfixx
