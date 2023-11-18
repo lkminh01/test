@@ -15,6 +15,7 @@ animevietsub.fan##.tools-box
 animevietsub.fan##.fbcmt
 animevietsub.fan###mv-keywords
 animevietsub.fan###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child
+animevietsub.fan##.bellow_ads_player.Ads
 animevietsub.fan##.History-notif
 animevietsub.fan##.MovieTabNav, .ControlPlayer
 animevietsub.fan###links-backup > h3:first-child
@@ -22,6 +23,7 @@ animevietsub.fan##.server-name
 animevietsub.fan##.watch-notice
 animevietsub.fan##.VotesCn
 animevietsub.fan##.View, .AAIco-remove_red_eye
+animevietsub.fan##.ads_player.Ads
 animevietsub.fan##.Footer
 animevietsub.fan##.ad-center-header.Adv
 animevietsub.fan##.ad-center-980.Adv
