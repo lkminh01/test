@@ -22,8 +22,7 @@ bilibili.tv##.video-play__breadcrumb
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.category > div.category__operate:first-child > ul.bstar-tab.bstar-tab--largeLine:first-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__tabs-wrapper:first-child > div.search-result__tabs > ul.bstar-tab.bstar-tab--largeLine > li.bstar-tab__item:last-child
 bilibili.tv###app > div.bstar-web:first-child > div.layout > section.layout__body:last-child > main.layout__content:last-child > div.max-container > section.search-result > div.search-result__main:last-child > ul.all-sheet:first-child > li.all-sheet__item.all-sheet__ugc:last-child
-!
-﻿animevietsub.fan##.Logo
+animevietsub.fan##.Logo
 animevietsub.fan##.Menu
 animevietsub.fan##.Login
 animevietsub.fan##.announcement
