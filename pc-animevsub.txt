@@ -11,7 +11,6 @@ animevietsub.fan^$replace=/(<div class="Top"[\s\S]*?>)[\s\S]<\/div>//
 animevietsub.fan^$replace=/(<section id="new-home"[\s\S]*?>)[\s\S]<\/section>//
 animevietsub.fan^$replace=/(<section id="hot-home"[\s\S]*?>)[\s\S]<\/section>//
 animevietsub.fan^$replace=/(<aside class="widget-area"[\s\S]*?>)[\s\S]<\/aside>//
-animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
 animevietsub.fan^$replace=/(<div class="schedule-title-main"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="Adv ad-center-980"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan^$replace=/(<div class="ml-title ml-title-page"[\s\S]*?>)[\s\S]<\/div>/<div class="filter-toggle"><i class="fa fa-sort mr5"><\/i>Lọc Anime<\/div><div class="clearfix"><\/div>/
@@ -29,3 +28,4 @@ animevietsub.fan###links-backup > h3:first-child
 animevietsub.fan^$replace=/(<h3 class="server-name"[\s\S]*?>)[\s\S]*?<\/h3>//
 animevietsub.fan^$replace=/(<div class="Ads ads_player"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.fan##.watch-notice
+animevietsub.fan^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
