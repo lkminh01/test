@@ -27,3 +27,4 @@ animevietsub.fan##.ad-center-header.Adv
 animevietsub.fan##.ad-center-980.Adv
 animevietsub.fan##.pc-catfixx
 animevietsub.fan##.mobile-catfixx
+animevietsub.fan###Tp-Wp > header.Header.MnBrCn.BgA:first-child > div.MnBr.EcBgA > div.Container > span.Button.MenuBtn.AAShwHdd-lnk.CXHd:nth-child(2)
