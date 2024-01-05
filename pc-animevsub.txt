@@ -31,3 +31,17 @@ animevietsub.*^$replace=/(<div class="Ads ads_player"[\s\S]*?>)[\s\S]*?<\/div>//
 animevietsub.*##.watch-notice
 animevietsub.*^$replace=/(<footer class="Footer"[\s\S]*?>)[\s\S]*<\/footer>//
 !
+vuighe2.*^$replace=/(<div class="mb-2"[\s\S]*?>)[\s\S]*?<\/div>//
+vuighe2.*##div.container.play:nth-child(2) > div.mt-\[20px\].px-\[10px\].s1024\:px-0.s1024\:flex.gap-2.s1024\:gap-3 > div.shrink-0.w-full.s1024\:w-\[640px\].s1280\:w-\[880px\].s1366\:w-\[960px\]:first-child > div.flex.justify-between.items-center.s1024\:block:last-child
+vuighe2.*^$replace=/(<span class="s1024:mb-2 inline-block text-\[14px\] font-light"[\s\S]*?>)[\s\S]*?<\/span>//
+vuighe2.*^$replace=/(<div class="masthead banner-masthead"[\s\S]*?>)[\s\S]*?<\/div>//
+vuighe2.*^$replace=/(<section class="mt-[\s\S]*?affiliate hidden"[\s\S]*?>)[\s\S]*?<\/section>//
+vuighe2.*^$replace=/(<div class="loading animate-spin hidden"[\s\S]*?>)[\s\S]*?<\/div>//
+vuighe2.*^$replace=/(<div class="loading hidden"[\s\S]*?>)[\s\S]*?<\/div>//
+vuighe2.*^$replace=/(<a href="\/truyen-tranh"[\s\S]*?>)[\s\S]*<\/section>/<\/section>/
+vuighe2.*^$replace=/(<section class="mt-\[20px[\s\S]*?"[\s\S]*?>)[\s\S]*?<\/section>//
+vuighe2.*##div[class="navbar-avatar overflow-hidden w-[40px] h-[40px] rounded-full bg-gray-100 dark:bg-slate-700 flex justify-center items-center text-center"]
+vuighe2.*^$replace=/(<div class="navbar-user relative[\s\S]*?"[\s\S]*?>)[\s\S]*?<\/a>[\s\S]*?<\/div>//
+vuighe2.*^$replace=/(<div class="navbar-item[\s\S]*?"[\s\S]*?>)[\s\S]*?<\/div>//
+vuighe2.*^$replace=/(<a class="" href="\/"[\s\S]*?>)[\s\S]*?<\/a>/<a href="\/">Trang Chủ<\/a>/
+!
