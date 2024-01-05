@@ -1,4 +1,4 @@
-﻿! Title: Hide List Adguard
+﻿! Title: Hidden List Adguard
 animevietsub.*##.Logo
 animevietsub.*###menu-item-495
 animevietsub.*##.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
