@@ -65,6 +65,8 @@
 /^.*?nettruyen.*?$/##^.relative
 /^.*?nettruyen.*?$/##^.cmszone.col-md-4.right-side
 /^.*?nettruyen.*?$/##^.mrb10.mrt5
+/^.*?nettruyen.*?$/##^.mrb5.text-center.container
+/^.*?nettruyen.*?$/##^.reading > div.container > .row
 /^.*?nettruyen.*?$/##^.rating.row
 /^.*?nettruyen.*?$/##^.follow
 /^.*?nettruyen.*?$/##^.mrt10.read-action
