@@ -169,6 +169,10 @@
 /^.*?lxmanga.*?$/##^.hidden-mb.sticky-footer
 /^.*?lxmanga.*?$/##^#left-balloon
 /^.*?lxmanga.*?$/##^script[type="text/javascript"]
+lxmanga.net##^.mt-6.text-center.hidden-pc.ads-wrapper
+lxmanga.net##^.third-sticky-footer.hidden-pc.sticky-footer
+lxmanga.net##^.second-sticky-footer.hidden-pc.sticky-footer
+lxmanga.net##^#mobile-catfish-2
 !
 /^.*?7mmtv.*?$/##^.header-logo
 /^.*?7mmtv.*?$/##li.toggle.nav-item:nth-of-type(3)
