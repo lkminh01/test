@@ -54,7 +54,7 @@
 /^.*?vuighe.*?$/##^section[class="container mt-[30px] pl-[10px] pr-[10px] s1024:p-0 clear-both"]
 /^.*?vuighe.*?$/##^footer
 /^.*?vuighe.*?$/##^section.affiliate
-/^.*?vuighe.*?$/##^.duration-300.transition-all.opacity-0.leading-\[48px\].text-center.bg-yellow-600.rounded-full.overflow-hidden.cursor-pointer.w-\[50px\].h-\[50px\].right-\[10px\].bottom-\[10px\].absolute.action-user.action-item
+!/^.*?vuighe.*?$/##^.duration-300.transition-all.opacity-0.leading-\[48px\].text-center.bg-yellow-600.rounded-full.overflow-hidden.cursor-pointer.w-\[50px\].h-\[50px\].right-\[10px\].bottom-\[10px\].absolute.action-user.action-item
 !
 /^.*?nettruyen.*?$/##^.logo
 /^.*?nettruyen.*?$/##.notifications
