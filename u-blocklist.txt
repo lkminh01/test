@@ -167,6 +167,7 @@
 /^.*?lxmanga.*?$/##^.third-pc-sticky-footer.hidden-mb.sticky-footer
 /^.*?lxmanga.*?$/##^.second-pc-sticky-footer.hidden-mb.sticky-footer
 /^.*?lxmanga.*?$/##^.hidden-mb.sticky-footer
+/^.*?lxmanga.*?$/##^#left-balloon
 /^.*?lxmanga.*?$/##^script[type="text/javascript"]
 !
 /^.*?7mmtv.*?$/##^.header-logo
