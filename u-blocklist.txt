@@ -166,7 +166,7 @@
 /^.*?lxmanga.*?$/##^.mt-6.text-center.hidden-mb.ads-wrapper
 /^.*?lxmanga.*?$/##^.third-pc-sticky-footer.hidden-mb.sticky-footer
 /^.*?lxmanga.*?$/##^.second-pc-sticky-footer.hidden-mb.sticky-footer
-/^.*?lxmanga.*?$/##^.hidden-mb.sticky-footer
+/^.*?lxmanga.*?$/##^#pc-catfish-2
 /^.*?lxmanga.*?$/##^#left-balloon
 /^.*?lxmanga.*?$/##^script[type="text/javascript"]
 /^.*?lxmanga.*?$/##^.mt-6.text-center.hidden-pc.ads-wrapper
