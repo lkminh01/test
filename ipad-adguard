@@ -39,3 +39,18 @@ vuighe2.*##div.container.play:nth-child(2) > div.mt-\[20px\].px-\[10px\].s1024\:
 vuighe2.*##div.container:nth-child(3) > div.mt-\[30px\].px-\[10px\].s1024\:px-0.s1024\:flex.gap-2.s1024\:gap-3 > div.w-full.s1024\:w-\[640px\].s1280\:w-\[880px\].s1366\:w-\[960px\]:first-child > div.mb-2:last-child
 vuighe2.*##section.container.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(4)
 vuighe2.*##section.container.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both:nth-child(5)
+!
+anime47.com##.footer
+anime47.com##.box-rating
+anime47.com##.play_comment
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-4:nth-child(2)
+anime47.com##.col-lg-4
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:last-child
+anime47.com##div.container:nth-child(9) > div.row:last-child > div.col-lg-8:first-child > div.movie-list-index.home-v2:nth-child(2) > div.block.update:nth-child(2)
+anime47.com##.nominated-movie
+anime47.com##nav:nth-child(6)
+anime47.com##.widget_user_header
+anime47.com##.header-logo
+vuighe2.com##div.container.play:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both.affiliate:nth-child(2)
+vuighe2.com##div.container:nth-child(2) > section.mt-\[30px\].pl-\[10px\].pr-\[10px\].s1024\:p-0.clear-both.affiliate:nth-child(3)
+vuighe2.com##header:first-child > nav.fixed.top-0.left-0.right-0.bg-white.shadow.dark\:shadow-slate-700.dark\:bg-slate-800.z-1000 > div.container.px-\[10px\].s1024\:px-0.mx-auto.h-\[60px\].flex.s375\:gap-3.items-center > div.navbar-brand.h-\[50px\].w-\[200px\].s768\:w-\[180px\].flex.justify-between.shrink-0.s1280\:mr-2.s1366\:mr-3.z-50:first-child
