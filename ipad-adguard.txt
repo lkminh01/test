@@ -15,6 +15,8 @@ animevietsub.*##.SearchMovies.list-movie-filter
 !Trang thong tin
 animevietsub.*##.social-button
 animevietsub.*##.VotesCn
+animevietsub.*##.AAIco-date_range.Date
+animevietsub.*##.AAIco-remove_red_eye.View
 animevietsub.*##.MovieTabNav
 animevietsub.*##.fbcmt
 animevietsub.*###mv-keywords
