@@ -1,3 +1,4 @@
+! Title: Hidden List Adguard iPad
 !Trang chu
 animevietsub.*##.BgA.MnBrCn.Header > .EcBgA.MnBr > .Container > .Logo
 animevietsub.*##.Menu
