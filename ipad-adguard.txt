@@ -1,6 +1,6 @@
 ! Title: Hidden List Adguard iPad
 !Trang chu
-animevietsub.*##.BgA.MnBrCn.Header > .EcBgA.MnBr > .Container > .Logo
+animevietsub.*##.Logo
 animevietsub.*##.Menu
 animevietsub.*##.Login
 animevietsub.*##.announcement
@@ -20,7 +20,7 @@ animevietsub.*##.AAIco-remove_red_eye.View
 animevietsub.*##.MovieTabNav
 animevietsub.*##.fbcmt
 animevietsub.*###mv-keywords
-animevietsub.*##.Title
+animevietsub.*###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child > div.Title:first-child
 animevietsub.*##.owl-theme.owl-carousel.MovieListRelated
 !Trang xem phim
 animevietsub.*##.alerts.box-content
