@@ -80,3 +80,17 @@ anime47.*###btn-toggle-capture > span
 anime47.*##.box-rating
 anime47.*##.server > .name
 anime47.*##.footer
+!
+animehay.*##.logo
+animehay.*###navbar > div.flex.flex-hozi-center.padding-10:first-child > div.nav-items.flex-wrap.flex:last-child
+animehay.*##.ah-carousel
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.info-movie:nth-child(2) > div.flex.ah-frame-bg.flex-wrap:nth-child(4)
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.info-movie:nth-child(2) > div.ah-frame-bg:last-child
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.noti-info.bg-red:nth-child(5)
+animehay.*##.noti-success
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.control-bar.flex.flex-space-between.bg-cod-gray:nth-child(7) > div.bg-black.flex.flex-hozi-center.fs-17.padding-0-10.height-50.border-r-b-t:last-child
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.flex.flex-ver-center.margin-10:nth-child(13)
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.flex.flex-ver-center.under_player:nth-child(15)
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.ah-frame-bg:last-child
+animehay.*###ah_wrapper > div.ah_content:nth-child(3) > div.watching-movie:nth-child(2) > div.noti-warning.color-white.flex.flex-hozi-center:nth-child(10)
+animehay.*##.ah_footer
