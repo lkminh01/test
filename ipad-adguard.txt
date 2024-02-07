@@ -98,5 +98,5 @@ animehay.*##.bg-lochinvar.fw-700.flex-hozi-center.flex.button-default
 animehay.*##div.margin-10.flex-ver-center.flex > .bg-blue.fw-700.flex-hozi-center.flex.button-default
 animehay.*##.fw-700.flex-hozi-center.flex.padding-10-20.button-default
 animehay.*##.fw-700.flex-space-auto.flex.heading
-animehay.*##div.ah-frame-bg:nth-of-type(13) > .flex-space-auto.flex
+animehay.*##.flex-space-auto.flex
 animehay.*##.ah_footer
