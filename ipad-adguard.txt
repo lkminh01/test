@@ -81,22 +81,23 @@ anime47.*##.box-rating
 anime47.*##.server > .name
 anime47.*##.footer
 !Trang chu
-animehay.*##.logo
-animehay.*##.flex.flex-wrap.nav-items
-animehay.*##.ah-carousel
+hhhay.*##.slogan.col-sm-6.col-md-3
+hhhay.*##.hidden-xs.col-md-4
+hhhay.*##.navbar-container
+hhhay.*##.fullwith-slider.row
+hhhay.*###halim-advanced-widget-20
+hhhay.*###halim-advanced-widget-17
+hhhay.*###sidebar
 !Trang thong tin
-animehay.*###toggle_follow
-animehay.*###rated
-animehay.*##.info-movie > div.ah-frame-bg > .flex-space-auto.flex
-animehay.*##.bg-red.button-default
-animehay.*###comments
+hhhay.*##.single-info.ratings_wrapper
+hhhay.*##.related-movies
+hhhay.*##.the_tag_list
 !Trang xem phim
-animehay.*##.bg-red.noti-info
-animehay.*##.noti-success
-animehay.*##.border-r-b-t.height-50.padding-0-10.fs-17.flex-hozi-center.flex.bg-black
-animehay.*##.bg-lochinvar.fw-700.flex-hozi-center.flex.button-default
-animehay.*##div.margin-10.flex-ver-center.flex > .bg-blue.fw-700.flex-hozi-center.flex.button-default
-animehay.*##.fw-700.flex-hozi-center.flex.padding-10-20.button-default
-animehay.*##.fw-700.flex-space-auto.flex.heading
-animehay.*##.flex-space-auto.flex
-animehay.*##.ah_footer
+hhhay.*##.primary_ribbon.bookmark-img-animation
+hhhay.*##.ratings_wrapper
+hhhay.*##.halim--notice
+hhhay.*##.\/.button-watch
+hhhay.*##.nav-tabs.nav
+hhhay.*##.clearfix.fb-comment.htmlwrap
+hhhay.*##.footer-credit
+hhhay.*###footer
