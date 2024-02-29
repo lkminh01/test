@@ -236,6 +236,8 @@
 /^.*?yurineko.*?$/##.max-w-xs.w-screen.md\:block.hidden
 /^.*?yurineko.*?$/##.my-2
 /^.*?yurineko.*?$/##.p-2.mt-3
+/^.*?yurineko.*?$/##.md\:hidden.justify-center.items-center.flex.mt-2
+/^.*?yurineko.*?$/##.mt-2.justify-center.flex-col.flex.mx-auto.max-w-xs.w-screen.md\:hidden
 /^.*?yurineko.*?$/##div.justify-center.items-center.flex.pt-2:nth-of-type(1)
 /^.*?yurineko.*?$/##.py-2.dark\:bg-dark.bg-white
 /^.*?yurineko.*?$/##.justify-center.items-center.flex.px-3.text-white.text-base.font-normal.bg-yellow-500.rounded.leading-none.block.py-2.h-10
