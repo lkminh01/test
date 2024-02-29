@@ -208,11 +208,11 @@
 /^.*?hhhay.*?$/##^.footer-credit
 /^.*?hhhay.*?$/##^#footer
 !
-/^.*?cuutruyen.*?$/##.lg\:flex.hidden.gap-3.items-center.flex-1
-/^.*?cuutruyen.*?$/##.max-w-full.justify-end.flex.flex-1 > div.relative
-/^.*?cuutruyen.*?$/##.flex-grow.overflow-hidden.flex-col.flex > .flex-col.flex
-/^.*?cuutruyen.*?$/###best-mangas
-/^.*?cuutruyen.*?$/###best-teams
+/^.*?cuutruyen.*?$/##^.lg\:flex.hidden.gap-3.items-center.flex-1
+/^.*?cuutruyen.*?$/##^.max-w-full.justify-end.flex.flex-1 > div.relative
+/^.*?cuutruyen.*?$/##^.flex-grow.overflow-hidden.flex-col.flex > .flex-col.flex
+/^.*?cuutruyen.*?$/##^#best-mangas
+/^.*?cuutruyen.*?$/##^#best-teams
 /^.*?cuutruyen.*?$/##.md\:right-11.md\:bottom-11.right-4.bottom-12.z-50.fixed
 /^.*?cuutruyen.*?$/##button[class="button px-6 py-2 bg-gray-100 focus:ring text-gray-500 font-bold text-sm md:text-md uppercase text-center cursor-default"]
 /^.*?cuutruyen.*?$/##.items-center.gap-2.flex
