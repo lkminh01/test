@@ -207,3 +207,18 @@
 /^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
 /^.*?hhhay.*?$/##^.footer-credit
 /^.*?hhhay.*?$/##^#footer
+!
+/^.*?cuutruyen.*?$/##.lg\:flex.hidden.gap-3.items-center.flex-1
+/^.*?cuutruyen.*?$/##.max-w-full.justify-end.flex.flex-1 > div.relative
+/^.*?cuutruyen.*?$/##.flex-grow.overflow-hidden.flex-col.flex > .flex-col.flex
+/^.*?cuutruyen.*?$/###best-mangas
+/^.*?cuutruyen.*?$/###best-teams
+/^.*?cuutruyen.*?$/##.md\:right-11.md\:bottom-11.right-4.bottom-12.z-50.fixed
+/^.*?cuutruyen.*?$/##button[class="button px-6 py-2 bg-gray-100 focus:ring text-gray-500 font-bold text-sm md:text-md uppercase text-center cursor-default"]
+/^.*?cuutruyen.*?$/##.items-center.gap-2.flex
+/^.*?cuutruyen.*?$/##.lg\:block.hidden.w-72.flex-none
+/^.*?cuutruyen.*?$/##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500
+||cuutruyent9sv7.xyz/img/oneshot-dayruined.076d5db9.jpg$image
+/^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
+/^.*?cuutruyen.*?$/##.mt-12.items-center.flex-col.flex.text-sm.text-gray-600
+/^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
