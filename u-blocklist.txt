@@ -222,3 +222,25 @@
 /^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
 /^.*?cuutruyen.*?$/##.mt-12.items-center.flex-col.flex.text-sm.text-gray-600
 /^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
+!
+/^.*?yurineko.*?$/##.mr-auto.md\:flex.hidden.items-center.justify-between.w-max
+/^.*?yurineko.*?$/##.dark\:bg-dark.md\:block.hidden.bg-gray-light.w-full
+/^.*?yurineko.*?$/##.md\:flex.hidden.justify-between.items-center.w-24.flex
+/^.*?yurineko.*?$/##.ml-2.md\:hidden.w-20
+/^.*?yurineko.*?$/##.mr-2.relative.ant-dropdown-trigger
+/^.*?yurineko.*?$/##.py-2.xl\:px-40.container.mx-auto
+/^.*?yurineko.*?$/##.mb-3 > .xl\:px-40.mx-auto.container
+/^.*?yurineko.*?$/##.xl\:px-slide.mx-auto.container
+/^.*?yurineko.*?$/##.ant-col-xl-8.ant-col-xs-24.py-2.ant-col
+/^.*?yurineko.*?$/##.font-semibold.border-button-disable.text-white.bg-button-disable.border-2.justify-center.items-center.text-base.rounded-md.p-2.md\:flex.hidden
+/^.*?yurineko.*?$/##.max-w-xs.w-screen.md\:block.hidden
+/^.*?yurineko.*?$/##.my-2
+/^.*?yurineko.*?$/##.p-2.mt-3
+/^.*?yurineko.*?$/##div.justify-center.items-center.flex.pt-2:nth-of-type(1)
+/^.*?yurineko.*?$/##.py-2.dark\:bg-dark.bg-white
+/^.*?yurineko.*?$/##.justify-center.items-center.flex.px-3.text-white.text-base.font-normal.bg-yellow-500.rounded.leading-none.block.py-2.h-10
+/^.*?yurineko.*?$/##.p-2.max-w-2xl.md\:w-4\/5.w-full.mx-auto.justify-around.items-center.flex > .ant-dropdown-trigger
+/^.*?yurineko.*?$/##.border-2.h-10.justify-center.items-center.flex.py-2.px-2.text-base.font-semibold.rounded.ml-2.border-gray.text-white.bg-gray
+/^.*?yurineko.*?$/##.p-2.max-w-2xl.md\:w-4\/5.w-full.mx-auto.justify-around.items-center.flex > .border-2.justify-center.items-center.flex.py-2.px-2.text-2xl.font-semibold.rounded.h-10.border-button-disable.text-white.bg-button-disable
+/^.*?yurineko.*?$/##.mt-2.mb-2.mx-auto.w-64
+/^.*?yurineko.*?$/##.w-screen.bottom-0.mt-auto.dark\:bg-dark-black.bg-gray-footer.absolute.ant-layout-footer
