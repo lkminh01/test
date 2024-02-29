@@ -218,7 +218,7 @@
 /^.*?cuutruyen.*?$/##.items-center.gap-2.flex
 /^.*?cuutruyen.*?$/##.lg\:block.hidden.w-72.flex-none
 /^.*?cuutruyen.*?$/##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500
-||/^.*?cuutruyen.*?$//img/oneshot-dayruined.076d5db9.jpg$image
+/^.*?cuutruyen.*?$/###banner
 /^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
 /^.*?cuutruyen.*?$/##.mt-12.items-center.flex-col.flex.text-sm.text-gray-600
 /^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
