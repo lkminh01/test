@@ -1,10 +1,7 @@
 ! Title: Block List uBlock
-/^.*?animevietsub.*?$/##.Logo
-/^.*?animevietsub.*?$/##^#menu-item-495
-/^.*?animevietsub.*?$/##^.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
-/^.*?animevietsub.*?$/##^#menu-item-494
-/^.*?animevietsub.*?$/##^#menu-item-497
-/^.*?animevietsub.*?$/##^li.menu-item-493.menu-item-object-page.menu-item-type-post_type.menu-item
+!
+/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/Trang Chủ<\/a><\/figure>/
+/^.*?animevietsub.*?$/##^.Menu
 /^.*?animevietsub.*?$/##^.Login
 /^.*?animevietsub.*?$/##^.announcement
 /^.*?animevietsub.*?$/##^.MovieListTopCn
@@ -20,8 +17,10 @@
 /^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
 /^.*?animevietsub.*?$/##^.pc-catfixx
 /^.*?animevietsub.*?$/##^.mobile-catfixx
+!
 /^.*?animevietsub.*?$/##^.breadcrumb
 /^.*?animevietsub.*?$/##^.schedule-title-main
+!
 /^.*?animevietsub.*?$/##^.social-button
 /^.*?animevietsub.*?$/##^.tools-box
 /^.*?animevietsub.*?$/##^.VotesCn
@@ -30,6 +29,7 @@
 /^.*?animevietsub.*?$/##^.fbcmt
 /^.*?animevietsub.*?$/##^#mv-keywords
 /^.*?animevietsub.*?$/##^div[class="Wdgt"]
+!
 /^.*?animevietsub.*?$/##^.History-notif
 /^.*?animevietsub.*?$/###links-backup > h3
 /^.*?animevietsub.*?$/##^.server-name
