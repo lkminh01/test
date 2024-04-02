@@ -25,4 +25,32 @@
 /^.*?henvn.*?$/##^#inner-randommobile
 /^.*?henvn.*?$/##^.footer
 !
+/^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
+/^.*?lxmanga.*?$/##^.font-bold.truncate.grow
+/^.*?lxmanga.*?$/##^ul > [href="/"]
+/^.*?lxmanga.*?$/##^[href="/shop"]
+/^.*?lxmanga.*?$/##^[href="/my/pets"]
+/^.*?lxmanga.*?$/##^[href="/theo-doi"]
+/^.*?lxmanga.*?$/##^[href="/lich-su"]
+/^.*?lxmanga.*?$/##^[href="/my/achievements"]
+/^.*?lxmanga.*?$/##^[href="https://www.facebook.com/Shoplxer"]
+/^.*?lxmanga.*?$/##^.h-16.justify-between.items-center.flex.relative > .justify-center.items-center.flex
+/^.*?lxmanga.*?$/##^.sm\:inset-auto.sm\:static.pr-2.items-center.flex.right-0.inset-y-0.absolute > .truncate.flex
+/^.*?lxmanga.*?$/##^.md\:mt-\[140px\].mt-\[80px\].w-full.px-3.mx-auto.max-w-7xl > .dark\:shadow-gray-900.rounded.shadow-md.dark\:bg-gray-900.bg-white.p-3.dark\:border-gray-600.border-gray-100.border-2
+/^.*?lxmanga.*?$/##^.justify-start.flex-col.flex.p-2
+/^.*?lxmanga.*?$/##^.md\:grid-cols-8.grid-cols-3.grid
+!
+/^.*?lxmanga.*?$/##.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
+/^.*?lxmanga.*?$/##.mb-4.truncate.flex-row.flex
+/^.*?lxmanga.*?$/##.text-center.pb-4
+/^.*?lxmanga.*?$/##.space-y-2.flex-col.flex.px-3.py-2.w-full
+/^.*?lxmanga.*?$/##.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
+/^.*?lxmanga.*?$/##^.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex.mb-4 > .justify-start.flex-col.flex.p-4 > .font-semibold.uppercase.mb-2.text-xl
+/^.*?lxmanga.*?$/##^.cursor-pointer.items-center.inline-flex
+/^.*?lxmanga.*?$/##^.mt-2.w-full.dark\:hover\:bg-gray-700.hover\:bg-gray-200.relative.dark\:border-gray-600.rounded-lg.border-2.py-1.px-3
+/^.*?lxmanga.*?$/##^.font-semibold.uppercase.mb-2.text-xl
+/^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
+/^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
+!
+
 
