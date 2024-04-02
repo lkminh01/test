@@ -1,4 +1,43 @@
 ! Title: Block List uBlock
+/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
+/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
+/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtnClose
+/^.*?animevietsub.*?$/##^.Login
+/^.*?animevietsub.*?$/##^.Menu
+/^.*?animevietsub.*?$/##^.announcement
+/^.*?animevietsub.*?$/##^.MovieListTopCn
+/^.*?animevietsub.*?$/##^.Top
+/^.*?animevietsub.*?$/##^#new-home
+/^.*?animevietsub.*?$/##^#hot-home
+/^.*?animevietsub.*?$/##^.widget-area
+!
+/^.*?animevietsub.*?$/##^.SearchMovies.list-movie-filter
+/^.*?animevietsub.*?$/##^.filter-toggle
+/^.*?animevietsub.*?$/##^.schedule-title-main
+!
+/^.*?animevietsub.*?$/##^.social-button
+/^.*?animevietsub.*?$/##^.tools-box
+/^.*?animevietsub.*?$/##^.ClFx
+/^.*?animevietsub.*?$/##^.MovieTabNav
+/^.*?animevietsub.*?$/##^.fbcmt
+/^.*?animevietsub.*?$/##^#mv-keywords
+/^.*?animevietsub.*?$/##^.Wdgt > .Title
+/^.*?animevietsub.*?$/##.owl-theme.owl-carousel.MovieListRelated
+!
+/^.*?animevietsub.*?$/##^.History-notif
+/^.*?animevietsub.*?$/###links-backup > h3
+/^.*?animevietsub.*?$/##^.server-name
+/^.*?animevietsub.*?$/##^main > .watch-notice
+/^.*?animevietsub.*?$/##div.owl-item > .TPostMv
+/^.*?animevietsub.*?$/##^.ad-center-header.Adv
+/^.*?animevietsub.*?$/##^.ad-center-980.Adv
+/^.*?animevietsub.*?$/##^.home_ads.Ads
+/^.*?animevietsub.*?$/##^.ads_player.Ads
+/^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
+/^.*?animevietsub.*?$/##^.pc-catfixx
+/^.*?animevietsub.*?$/##^.mobile-catfixx
+/^.*?animevietsub.*?$/##^.Footer
+!
 /^.*?henvn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
 /^.*?henvn.*?$/##^.headerclick_2
 /^.*?henvn.*?$/##^#tag_z
