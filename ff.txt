@@ -1,4 +1,28 @@
 ! Title: Block List uBlock
+/^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/div>/<div style="display: grid; place-items: center;"><a href="\/">Trang Chủ<\/a><\/div><form id="search-form-pc" name="halimForm" role="search" method="GET"><div class="form-group"><div class="input-group col-xs-12"><input id="search" type="text" name="s" value="" class="form-control" data-toggle="tooltip" data-placement="bottom" data-original-title="Nhấn Enter để tìm kiếm" placeholder="Search with Tìm kiếm movie..." autocomplete="off" required=""><\/div><\/div><\/form>/
+/^.*?hhhay.*?$/##^.main-navigation.halim-navbar.navbar
+/^.*?hhhay.*?$/##^.fullwith-slider.row
+/^.*?hhhay.*?$/##^.section-heading
+/^.*?hhhay.*?$/##^#halim-advanced-widget-20
+/^.*?hhhay.*?$/##^#halim-advanced-widget-17
+/^.*?hhhay.*?$/##^.col-md-4.col-sm-12.col-xs-12
+!
+/^.*?hhhay.*?$/##^.primary_ribbon.bookmark-img-animation.halim_bookmark
+/^.*?hhhay.*?$/##^.show-trailer.btn-primary.btn-sm.btn
+/^.*?hhhay.*?$/##^.halim-watch-box
+/^.*?hhhay.*?$/##^.single-info.ratings_wrapper
+/^.*?hhhay.*?$/##^.related-movies
+/^.*?hhhay.*?$/##^.the_tag_list
+!
+/^.*?hhhay.*?$/##^.watch-page.title-block
+/^.*?hhhay.*?$/##^.halim--notice
+/^.*?hhhay.*?$/##^.\/.button-watch
+/^.*?hhhay.*?$/##^.nav-tabs.nav
+/^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
+/^.*?hhhay.*?$/##^#footer
+/^.*?hhhay.*?$/##^.footer-credit
+/^.*?hhhay.*?$/$replace=/(<div id="easy-top"[\s\S]*?>)[\s\S]*?<\/div>/<br><br><br><div id="easy-top"><\/div>/
+!
 /^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtnClose
