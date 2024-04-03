@@ -1,6 +1,6 @@
 ! Title: Block List uBlock
-/^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/div>/<div style="display: grid; place-items: center;"><a href="\/">Trang Chủ<\/a><\/div><form id="search-form-pc" name="halimForm" role="search" method="GET"><div class="form-group"><div class="input-group col-xs-12"><input id="search" type="text" name="s" value="" class="form-control" data-toggle="tooltip" data-placement="bottom" data-original-title="Nhấn Enter để tìm kiếm" placeholder="Search with Tìm kiếm movie..." autocomplete="off" required=""><\/div><\/div><\/form>/
-/^.*?hhhay.*?$/##^.main-navigation.halim-navbar.navbar
+/^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/ul>[\s\S]*?<\/div>[\s\S]*?<\/div>[\s\S]*?<\/div>/<div style="display: grid; place-items: center;"><a href="\/">Trang Chủ<\/a><\/div><form id="search-form-pc" name="halimForm" role="search" method="GET"><div class="form-group"><div class="input-group col-xs-12"><input id="search" type="text" name="s" value="" class="form-control" data-toggle="tooltip" data-placement="bottom" data-original-title="Nhấn Enter để tìm kiếm" placeholder="Search with Tìm kiếm movie" autocomplete="off" required=""><\/div><\/div><\/form>/
+hhhay.tv##^.navbar-container
 /^.*?hhhay.*?$/##^.fullwith-slider.row
 /^.*?hhhay.*?$/##^.section-heading
 /^.*?hhhay.*?$/##^#halim-advanced-widget-20
