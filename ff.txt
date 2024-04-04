@@ -1,4 +1,18 @@
 ! Title: Block List uBlock
+/^.*?blogtruyenmoi.*?$/##^.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
+/^.*?blogtruyenmoi.*?$/##^.navbar-nav.nav
+/^.*?blogtruyenmoi.*?$/##^.navbar-toggle
+/^.*?blogtruyenmoi.*?$/##^.widget-forum-comment
+/^.*?blogtruyenmoi.*?$/##^.mt10.mb10.pd10.bg-white.view-type > .pull-left
+/^.*?blogtruyenmoi.*?$/##^.widget-pinned
+!
+/^.*?blogtruyenmoi.*?$/##^.mt15.bt-bookmark
+/^.*?blogtruyenmoi.*?$/##^.area-comment
+/^.*?blogtruyenmoi.*?$/##^.fb-page
+!
+/^.*?blogtruyenmoi.*?$/##^[src="//blogtruyenmoi.com/donate.html?v=7"]
+/^.*?blogtruyenmoi.*?$/##^footer
+!
 /^.*?nettruyen.*?$/##^.navbar-brand
 /^.*?nettruyen.*?$/##.notifications
 /^.*?nettruyen.*?$/##^.navbar-collapse > .Module-144.Module
@@ -159,5 +173,3 @@
 /^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
 /^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
 !
-
-
