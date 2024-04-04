@@ -1,4 +1,24 @@
 ! Title: Block List uBlock
+/^.*?anime47.*?$/##^.header-logo
+/^.*?anime47.*?$/##^.widget_user_header
+/^.*?anime47.*?$/##^nav
+/^.*?anime47.*?$/##^.nominated-movie.row
+/^.*?anime47.*?$/##^.widget-title
+/^.*?anime47.*?$/##^.last-film-box-wrapper > .last-film-box
+/^.*?anime47.*?$/##^.last-film-box-wrapper > .xem-them
+/^.*?anime47.*?$/##^.col-lg-4
+/^.*?anime47.*?$/##^footer
+!
+/^.*?anime47.*?$/##^.list-movie-filter
+/^.*?anime47.*?$/##^.header-list-index
+/^.*?anime47.*?$/$replace=/Mới cập nhật://
+/^.*?anime47.*?$/##^.name
+/^.*?anime47.*?$/##^#film-content > p
+/^.*?anime47.*?$/##^.play_comment
+!
+/^.*?anime47.*?$/##^.user-action
+/^.*?anime47.*?$/##^.box-rating
+!
 /^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/ul>[\s\S]*?<\/div>[\s\S]*?<\/div>[\s\S]*?<\/div>/<div style="display: grid; place-items: center;"><a href="\/">Trang Chủ<\/a><\/div><form id="search-form-pc" name="halimForm" role="search" method="GET"><div class="form-group"><div class="input-group col-xs-12"><input id="search" type="text" name="s" value="" class="form-control" data-toggle="tooltip" data-placement="bottom" data-original-title="Nhấn Enter để tìm kiếm" placeholder="Tìm kiếm" autocomplete="off" required=""><\/div><\/div><\/form>/
 /^.*?hhhay.*?$/##^.navbar-container
 /^.*?hhhay.*?$/##^.fullwith-slider.row
