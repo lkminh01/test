@@ -1,4 +1,28 @@
 ! Title: Block List uBlock
+/^.*?nettruyen.*?$/##^.navbar-brand
+/^.*?nettruyen.*?$/##.notifications
+/^.*?nettruyen.*?$/##^.navbar-collapse > .Module-144.Module
+/^.*?nettruyen.*?$/##^.navbar-collapse > .list-inline.nav-account
+/^.*?nettruyen.*?$/##^.notify_block
+/^.*?nettruyen.*?$/##^.cmszone.altcontent1
+/^.*?nettruyen.*?$/##^.relative
+/^.*?nettruyen.*?$/##^.cmszone.col-md-4.right-side
+!
+/^.*?nettruyen.*?$/##^.mrb10.mrt5
+/^.*?nettruyen.*?$/##^.rating.row
+/^.*?nettruyen.*?$/##^.follow
+/^.*?nettruyen.*?$/##^.mrt10.read-action
+/^.*?nettruyen.*?$/##^.lazy-module.main-tab.nav-tabs.nav
+/^.*?nettruyen.*?$/##^.tab-content
+/^.*?nettruyen.*?$/##^.col-md-4.right-side
+!
+/^.*?nettruyen.*?$/##^.facebook-like
+/^.*?nettruyen.*?$/$replace=/Nếu không xem được truyện vui lòng đổi "SERVER ẢNH" bên dưới//
+/^.*?nettruyen.*?$/##^.btn-warning.btn.alertError
+/^.*?nettruyen.*?$/##.btn-success.btn.follow-link
+/^.*?nettruyen.*?$/##^.comment
+/^.*?nettruyen.*?$/##^.footer
+!
 /^.*?anime47.*?$/##^.header-logo
 /^.*?anime47.*?$/##^.widget_user_header
 /^.*?anime47.*?$/##^nav
