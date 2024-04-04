@@ -1,6 +1,6 @@
 ! Title: Block List uBlock
 !
-!/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<\/a><\/figure><a href="\/">Trang Chủ<\/a>/
+/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<\/a><\/figure><a href="\/">Trang Chủ<\/a>/
 /^.*?animevietsub.*?$/##.Logo
 /^.*?animevietsub.*?$/##^.Menu
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
