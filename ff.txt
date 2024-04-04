@@ -37,6 +37,26 @@
 /^.*?nettruyen.*?$/##^.comment
 /^.*?nettruyen.*?$/##^.footer
 !
+/^.*?vuighe.*?$/$replace=/(<a class=""[\s\S]*?>)[\s\S]*?<\/a>/<a href="\/" style="display: grid; place-items: center;">Trang chủ<\/a>/
+/^.*?vuighe.*?$/##^.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
+/^.*?vuighe.*?$/##^.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
+/^.*?vuighe.*?$/##^.s768\:order-5.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
+/^.*?vuighe.*?$/##^.s768\:order-4.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
+/^.*?vuighe.*?$/##.right-0.duration-300.transition-all.z-50.dark\:shadow-slate-700.dark\:bg-slate-800\/90.bg-white.bottom-0.top-0.w-\[300px\].shadow.h-full.overflow-hidden.fixed.navbar-right
+/^.*?vuighe.*?$/##^div.text-center.items-center.justify-center.flex.dark\:bg-slate-700.bg-gray-100.rounded-full.h-\[40px\].w-\[40px\].overflow-hidden:nth-of-type(2)
+/^.*?vuighe.*?$/##.text-center.items-center.justify-center.flex.dark\:bg-slate-700.bg-gray-100.rounded-full.h-\[40px\].w-\[40px\].overflow-hidden.navbar-avatar
+/^.*?vuighe.*?$/##^.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[20px\]
+/^.*?vuighe.*?$/##^section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\] > .mb-2
+/^.*?vuighe.*?$/##^.scrollbar-hide.s1024\:gap-3.gap-2.s768\:grid-cols-6.s768\:grid-rows-2.s768\:grid.overflow-x-auto.snap-mandatory.snap-x.flex.relative
+/^.*?vuighe.*?$/##^.scrollbar-hide.s1024\:gap-3.gap-2.s768\:grid-cols-6.s768\:grid.overflow-x-auto.snap-mandatory.snap-x.flex.relative
+/^.*?vuighe.*?$/##^section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(7)
+/^.*?vuighe.*?$/##.s768\:hidden.duration-300.transition-all.text-white.text-\[20px\].rounded-tl-full.w-\[60px\].h-\[60px\].z-1000.right-0.bottom-0.fixed.floating-action
+!
+/^.*?vuighe.*?$/##.s1024\:block.items-center.justify-between.flex
+/^.*?vuighe.*?$/##.cursor-pointer.uppercase.text-\[12px\].border-red-500.h-full.ml-auto.tab-comment.tab-item
+/^.*?vuighe.*?$/##^.s1024\:gap-3.gap-2.s1024\:flex.s1024\:px-0.px-\[10px\].mt-\[30px\] > .s1366\:w-\[960px\].s1280\:w-\[880px\].s1024\:w-\[640px\].w-full > .mb-2
+/^.*?vuighe.*?$/##^.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\].container
+!
 /^.*?anime47.*?$/##^.header-logo
 /^.*?anime47.*?$/##^.widget_user_header
 /^.*?anime47.*?$/##^nav
