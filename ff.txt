@@ -140,31 +140,31 @@
 /^.*?animevietsub.*?$/##^.mobile-catfixx
 /^.*?animevietsub.*?$/##^.Footer
 !
-/^.*?henvn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
-/^.*?henvn.*?$/##^.headerclick_2
-/^.*?henvn.*?$/##^#tag_z
-/^.*?henvn.*?$/##^[href="/forum/"]
-/^.*?henvn.*?$/##^.container > p
-/^.*?henvn.*?$/##^.bar-titlewhite
-/^.*?henvn.*?$/##^.size_70
-/^.*?henvn.*?$/##^.main > div.page-70 > .block-right-top
-/^.*?henvn.*?$/##^.main_top
-/^.*?henvn.*?$/##^.main_top2
-/^.*?henvn.*?$/##^.main_top3
-/^.*?henvn.*?$/##^div.page-70 > .page-70
-/^.*?henvn.*?$/##^.qx_135
+/^.*?hen.*?vn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
+/^.*?hen.*?vn.*?$/##^.headerclick_2
+/^.*?hen.*?vn.*?$/##^#tag_z
+/^.*?hen.*?vn.*?$/##^[href="/forum/"]
+/^.*?hen.*?vn.*?$/##^.container > p
+/^.*?hen.*?vn.*?$/##^.bar-titlewhite
+/^.*?hen.*?vn.*?$/##^.size_70
+/^.*?hen.*?vn.*?$/##^.main > div.page-70 > .block-right-top
+/^.*?hen.*?vn.*?$/##^.main_top
+/^.*?hen.*?vn.*?$/##^.main_top2
+/^.*?hen.*?vn.*?$/##^.main_top3
+/^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
+/^.*?hen.*?vn.*?$/##^.qx_135
 !
-/^.*?henvn.*?$/##^.page_like
-/^.*?henvn.*?$/##^.bookmark
-/^.*?henvn.*?$/##^.size_80
-/^.*?henvn.*?$/##^.page-70 > .green.page-title
-/^.*?henvn.*?$/##^#inner-infotimemobile
-/^.*?henvn.*?$/##^.page-uploader
-/^.*?henvn.*?$/##^.red.page-title
-/^.*?henvn.*?$/##^div.page-70 > .content-row-2
+/^.*?hen.*?vn.*?$/##^.page_like
+/^.*?hen.*?vn.*?$/##^.bookmark
+/^.*?hen.*?vn.*?$/##^.size_80
+/^.*?hen.*?vn.*?$/##^.page-70 > .green.page-title
+/^.*?hen.*?vn.*?$/##^#inner-infotimemobile
+/^.*?hen.*?vn.*?$/##^.page-uploader
+/^.*?hen.*?vn.*?$/##^.red.page-title
+/^.*?hen.*?vn.*?$/##^div.page-70 > .content-row-2
 !
-/^.*?henvn.*?$/##^#inner-randommobile
-/^.*?henvn.*?$/##^.footer
+/^.*?hen.*?vn.*?$/##^#inner-randommobile
+/^.*?hen.*?vn.*?$/##^.footer
 !
 /^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
 /^.*?lxmanga.*?$/##^.font-bold.truncate.grow
