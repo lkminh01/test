@@ -1,194 +1,30 @@
-/^.*?blogtruyenmoi.*?$/##^.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
-/^.*?blogtruyenmoi.*?$/##^.navbar-nav.nav
-/^.*?blogtruyenmoi.*?$/##^.navbar-toggle
-/^.*?blogtruyenmoi.*?$/##^.widget-forum-comment
-/^.*?blogtruyenmoi.*?$/##^.mt10.mb10.pd10.bg-white.view-type > .pull-left
-/^.*?blogtruyenmoi.*?$/##^.widget-pinned
+/^.*?animevietsub.*?$/$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>/<figure class="Logo"><a href="\/""><h4>Trang chủ<\/h4><\/a><\/figure>/
+animevietsub.day##^.Menu
+animevietsub.day##^.Login
+animevietsub.day##^.announcement
+animevietsub.day##^.MovieListTopCn
+animevietsub.day##^.MovieListSldCn
+animevietsub.day##^.Top
+animevietsub.day##^#new-home
+animevietsub.day##^#hot-home
+animevietsub.day##^.widget-area
+animevietsub.day##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 !
-/^.*?blogtruyenmoi.*?$/##^.mt15.bt-bookmark
-/^.*?blogtruyenmoi.*?$/##^.area-comment
-/^.*?blogtruyenmoi.*?$/##^.fb-page
+animevietsub.day##^.breadcrumb
+animevietsub.day##^.schedule-title-main
 !
-/^.*?blogtruyenmoi.*?$/##^[src="//blogtruyenmoi.com/donate.html?v=7"]
-/^.*?blogtruyenmoi.*?$/##^footer
-!
-/^.*?nettruyen.*?$/##^.navbar-brand
-/^.*?nettruyen.*?$/##.notifications
-/^.*?nettruyen.*?$/##^.navbar-collapse > .Module-144.Module
-/^.*?nettruyen.*?$/##^.navbar-collapse > .list-inline.nav-account
-/^.*?nettruyen.*?$/##^.notify_block
-/^.*?nettruyen.*?$/##^.cmszone.altcontent1
-/^.*?nettruyen.*?$/##^.relative
-/^.*?nettruyen.*?$/##^.cmszone.col-md-4.right-side
-!
-/^.*?nettruyen.*?$/##^.mrb10.mrt5
-/^.*?nettruyen.*?$/##^.rating.row
-/^.*?nettruyen.*?$/##^.follow
-/^.*?nettruyen.*?$/##^.mrt10.read-action
-/^.*?nettruyen.*?$/##^.lazy-module.main-tab.nav-tabs.nav
-/^.*?nettruyen.*?$/##^.tab-content
-/^.*?nettruyen.*?$/##^.col-md-4.right-side
-!
-/^.*?nettruyen.*?$/##^.facebook-like
-/^.*?nettruyen.*?$/$replace=/Nếu không xem được truyện vui lòng đổi "SERVER ẢNH" bên dưới//
-/^.*?nettruyen.*?$/##^.btn-warning.btn.alertError
-/^.*?nettruyen.*?$/##.btn-success.btn.follow-link
-/^.*?nettruyen.*?$/##^.comment
-/^.*?nettruyen.*?$/##^.footer
-!
-/^.*?vuighe.*?$/$replace=/(<a class=""[\s\S]*?>)[\s\S]*?<\/a>/<a href="\/" style="display: grid; place-items: center;">Trang chủ<\/a>/
-/^.*?vuighe.*?$/##^.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-/^.*?vuighe.*?$/##^.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-/^.*?vuighe.*?$/##^.s768\:order-5.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-/^.*?vuighe.*?$/##^.s768\:order-4.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-/^.*?vuighe.*?$/##.right-0.duration-300.transition-all.z-50.dark\:shadow-slate-700.dark\:bg-slate-800\/90.bg-white.bottom-0.top-0.w-\[300px\].shadow.h-full.overflow-hidden.fixed.navbar-right
-/^.*?vuighe.*?$/##^div.text-center.items-center.justify-center.flex.dark\:bg-slate-700.bg-gray-100.rounded-full.h-\[40px\].w-\[40px\].overflow-hidden:nth-of-type(2)
-/^.*?vuighe.*?$/##.text-center.items-center.justify-center.flex.dark\:bg-slate-700.bg-gray-100.rounded-full.h-\[40px\].w-\[40px\].overflow-hidden.navbar-avatar
-/^.*?vuighe.*?$/##^.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[20px\]
-/^.*?vuighe.*?$/##^section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\] > .mb-2
-/^.*?vuighe.*?$/##^.scrollbar-hide.s1024\:gap-3.gap-2.s768\:grid-cols-6.s768\:grid-rows-2.s768\:grid.overflow-x-auto.snap-mandatory.snap-x.flex.relative
-/^.*?vuighe.*?$/##^.scrollbar-hide.s1024\:gap-3.gap-2.s768\:grid-cols-6.s768\:grid.overflow-x-auto.snap-mandatory.snap-x.flex.relative
-/^.*?vuighe.*?$/##^section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(7)
-/^.*?vuighe.*?$/##.s768\:hidden.duration-300.transition-all.text-white.text-\[20px\].rounded-tl-full.w-\[60px\].h-\[60px\].z-1000.right-0.bottom-0.fixed.floating-action
-!
-/^.*?vuighe.*?$/##.s1024\:block.items-center.justify-between.flex
-/^.*?vuighe.*?$/##.cursor-pointer.uppercase.text-\[12px\].border-red-500.h-full.ml-auto.tab-comment.tab-item
-/^.*?vuighe.*?$/##^.s1024\:gap-3.gap-2.s1024\:flex.s1024\:px-0.px-\[10px\].mt-\[30px\] > .s1366\:w-\[960px\].s1280\:w-\[880px\].s1024\:w-\[640px\].w-full > .mb-2
-/^.*?vuighe.*?$/##^.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\].container
-!
-/^.*?anime47.*?$/##^.header-logo
-/^.*?anime47.*?$/##^.widget_user_header
-/^.*?anime47.*?$/##^nav
-/^.*?anime47.*?$/##^.nominated-movie.row
-/^.*?anime47.*?$/##^.widget-title
-/^.*?anime47.*?$/##^.last-film-box-wrapper > .last-film-box
-/^.*?anime47.*?$/##^.last-film-box-wrapper > .xem-them
-/^.*?anime47.*?$/##^.col-lg-4
-!
-/^.*?anime47.*?$/##^.list-movie-filter
-/^.*?anime47.*?$/##^.header-list-index
-/^.*?anime47.*?$/$replace=/Mới cập nhật://
-/^.*?anime47.*?$/##^.name
-/^.*?anime47.*?$/##^#film-content > p
-/^.*?anime47.*?$/##^.play_comment
-!
-/^.*?anime47.*?$/##^.user-action
-/^.*?anime47.*?$/##^.box-rating
-/^.*?anime47.*?$/##^footer
-!
-/^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/ul>[\s\S]*?<\/div>[\s\S]*?<\/div>[\s\S]*?<\/div>/<div style="display: grid; place-items: center;"><a href="\/">Trang Chủ<\/a><\/div><form id="search-form-pc" name="halimForm" role="search" method="GET"><div class="form-group"><div class="input-group col-xs-12"><input id="search" type="text" name="s" value="" class="form-control" data-toggle="tooltip" data-placement="bottom" data-original-title="Nhấn Enter để tìm kiếm" placeholder="Tìm kiếm" autocomplete="off" required=""><\/div><\/div><\/form>/
-/^.*?hhhay.*?$/##^.navbar-container
-/^.*?hhhay.*?$/##^.fullwith-slider.row
-/^.*?hhhay.*?$/##^.section-heading
-/^.*?hhhay.*?$/##^#halim-advanced-widget-20
-/^.*?hhhay.*?$/##^#halim-advanced-widget-17
-/^.*?hhhay.*?$/##^.col-md-4.col-sm-12.col-xs-12
-!
-/^.*?hhhay.*?$/##^.primary_ribbon.bookmark-img-animation.halim_bookmark
-/^.*?hhhay.*?$/##^.show-trailer.btn-primary.btn-sm.btn
-/^.*?hhhay.*?$/##^.halim-watch-box
-/^.*?hhhay.*?$/##^.single-info.ratings_wrapper
-/^.*?hhhay.*?$/##^.related-movies
-/^.*?hhhay.*?$/##^.the_tag_list
-!
-/^.*?hhhay.*?$/##^.watch-page.title-block
-/^.*?hhhay.*?$/##^.halim--notice
-/^.*?hhhay.*?$/##^.\/.button-watch
-/^.*?hhhay.*?$/##^.nav-tabs.nav
-/^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
-/^.*?hhhay.*?$/##^#footer
-/^.*?hhhay.*?$/##^.footer-credit
-/^.*?hhhay.*?$/$replace=/(<div id="easy-top"[\s\S]*?>)[\s\S]*?<\/div>/<br><br><br><div id="easy-top"><\/div>/
-!
-/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
-/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
-/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtnClose
-/^.*?animevietsub.*?$/##^.Login
-/^.*?animevietsub.*?$/##^.Menu
-/^.*?animevietsub.*?$/##^.announcement
-/^.*?animevietsub.*?$/##^.MovieListTopCn
-/^.*?animevietsub.*?$/##^.Top
-/^.*?animevietsub.*?$/##^#new-home
-/^.*?animevietsub.*?$/##^#hot-home
-/^.*?animevietsub.*?$/##^.widget-area
-!
-/^.*?animevietsub.*?$/##^.SearchMovies.list-movie-filter
-/^.*?animevietsub.*?$/##^.filter-toggle
-/^.*?animevietsub.*?$/##^.schedule-title-main
-!
-/^.*?animevietsub.*?$/##^.social-button
-/^.*?animevietsub.*?$/##^.tools-box
-/^.*?animevietsub.*?$/##^.ClFx
-/^.*?animevietsub.*?$/##^.MovieTabNav
-/^.*?animevietsub.*?$/##^.fbcmt
-/^.*?animevietsub.*?$/##^#mv-keywords
-/^.*?animevietsub.*?$/##^.Wdgt > .Title
+animevietsub.day##^.social-button
+animevietsub.day##^.tools-box
+animevietsub.day##^.VotesCn
+animevietsub.day##^.AAIco-remove_red_eye.View
+animevietsub.day##^.MovieTabNav
+animevietsub.day##^.fbcmt
+animevietsub.day##^#mv-keywords
+animevietsub.day##^.Title
 /^.*?animevietsub.*?$/##.owl-theme.owl-carousel.MovieListRelated
 !
-/^.*?animevietsub.*?$/##^.History-notif
-/^.*?animevietsub.*?$/###links-backup > h3
-/^.*?animevietsub.*?$/##^.server-name
-/^.*?animevietsub.*?$/##^main > .watch-notice
-/^.*?animevietsub.*?$/##div.owl-item > .TPostMv
-/^.*?animevietsub.*?$/##^.header-mobile
-/^.*?animevietsub.*?$/$replace=/(<div class="Adv ad-center-980"[\s\S]*?>)[\s\S]<div class="TpRwCont">/<div class="TpRwCont">/
-/^.*?animevietsub.*?$/##^.home_ads.Ads
-/^.*?animevietsub.*?$/##^.ads_player.Ads
-/^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
-/^.*?animevietsub.*?$/##^.pc-catfixx
-/^.*?animevietsub.*?$/##^.mobile-catfixx
-/^.*?animevietsub.*?$/##^.Footer
-!
-/^.*?hen.*?vn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
-/^.*?hen.*?vn.*?$/##^.headerclick_2
-/^.*?hen.*?vn.*?$/##^#tag_z
-/^.*?hen.*?vn.*?$/##^[href="/forum/"]
-/^.*?hen.*?vn.*?$/##^.container > p
-/^.*?hen.*?vn.*?$/##^.bar-titlewhite
-/^.*?hen.*?vn.*?$/##^.size_70
-/^.*?hen.*?vn.*?$/##^.main > div.page-70 > .block-right-top
-/^.*?hen.*?vn.*?$/##^.main_top
-/^.*?hen.*?vn.*?$/##^.main_top2
-/^.*?hen.*?vn.*?$/##^.main_top3
-/^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
-/^.*?hen.*?vn.*?$/##^.qx_135
-!
-/^.*?hen.*?vn.*?$/##^.page_like
-/^.*?hen.*?vn.*?$/##^.bookmark
-/^.*?hen.*?vn.*?$/##^.size_80
-/^.*?hen.*?vn.*?$/##^.page-70 > .green.page-title
-/^.*?hen.*?vn.*?$/##^#inner-infotimemobile
-/^.*?hen.*?vn.*?$/##^.page-uploader
-/^.*?hen.*?vn.*?$/##^.red.page-title
-/^.*?hen.*?vn.*?$/##^div.page-70 > .content-row-2
-!
-/^.*?hen.*?vn.*?$/##^#inner-randommobile
-/^.*?hen.*?vn.*?$/##^.footer
-!
-/^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
-/^.*?lxmanga.*?$/##^.font-bold.truncate.grow
-/^.*?lxmanga.*?$/##^ul > [href="/"]
-/^.*?lxmanga.*?$/##^[href="/shop"]
-/^.*?lxmanga.*?$/##^[href="/my/pets"]
-/^.*?lxmanga.*?$/##^[href="/theo-doi"]
-/^.*?lxmanga.*?$/##^[href="/lich-su"]
-/^.*?lxmanga.*?$/##^[href="/my/achievements"]
-/^.*?lxmanga.*?$/##^[href="https://www.facebook.com/Shoplxer"]
-/^.*?lxmanga.*?$/##^.h-16.justify-between.items-center.flex.relative > .justify-center.items-center.flex
-/^.*?lxmanga.*?$/##^.sm\:inset-auto.sm\:static.pr-2.items-center.flex.right-0.inset-y-0.absolute > .truncate.flex
-/^.*?lxmanga.*?$/##^.md\:mt-\[140px\].mt-\[80px\].w-full.px-3.mx-auto.max-w-7xl > .dark\:shadow-gray-900.rounded.shadow-md.dark\:bg-gray-900.bg-white.p-3.dark\:border-gray-600.border-gray-100.border-2
-/^.*?lxmanga.*?$/##^.justify-start.flex-col.flex.p-2
-/^.*?lxmanga.*?$/##^.md\:grid-cols-8.grid-cols-3.grid
-!
-/^.*?lxmanga.*?$/##.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
-/^.*?lxmanga.*?$/##.mb-4.truncate.flex-row.flex
-/^.*?lxmanga.*?$/##.text-center.pb-4
-/^.*?lxmanga.*?$/##.space-y-2.flex-col.flex.px-3.py-2.w-full
-/^.*?lxmanga.*?$/##.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
-/^.*?lxmanga.*?$/##^.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex.mb-4 > .justify-start.flex-col.flex.p-4 > .font-semibold.uppercase.mb-2.text-xl
-/^.*?lxmanga.*?$/##^.cursor-pointer.items-center.inline-flex
-/^.*?lxmanga.*?$/##^.mt-2.w-full.dark\:hover\:bg-gray-700.hover\:bg-gray-200.relative.dark\:border-gray-600.rounded-lg.border-2.py-1.px-3
-/^.*?lxmanga.*?$/##^.font-semibold.uppercase.mb-2.text-xl
-/^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
-/^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
-!
+animevietsub.day##^.alerts.box-content
+animevietsub.day##^.History-notif
+animevietsub.day###links-backup > h3
+animevietsub.day##^.server-name
+animevietsub.day##^.Footer
