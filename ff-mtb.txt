@@ -1,5 +1,4 @@
-/^.*?animehay.*?$/$replace=/(<div class="logo"[\s\S]*?>)[\s\S]*?<\/div>/<a href="\/">Trang chủ<\/a>/
-/^.*?animehay.*?$/##^.flex.flex-wrap.nav-items
+/^.*?animehay.*?$/$replace=/(<div id="navbar"[\s\S]*?>)[\s\S]*?<\/div>[\s\S]*?<script>/<div class="flex flex-hozi-center padding-10"><a href="\/"><h2>Trang chủ<\/h2><\/a><div id="drop-down-4" class="search-bar flex flex-1 margin-0-10 flex-ver-center"><form onsubmit="handlingSearch();return false" class="flex" id="form-search" action="tim-kiem\/"><input type="text" placeholder="Nhập từ khoá..." class="padding-10 bg-black color-gray" name="keyword"><button type="submit" class="flex flex-hozi-center bg-black color-gray"><span class="material-icons-round">search<\/span><\/button><\/form><\/div><\/div><script>/
 /^.*?animehay.*?$/##^.noti-success
 /^.*?animehay.*?$/##^.ah-carousel
 /^.*?animehay.*?$/##^.flex-space-auto.flex.bg-gray-2.margin-10-0
