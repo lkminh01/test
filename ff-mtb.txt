@@ -30,7 +30,7 @@
 /^.*?animevietsub.*?$/##^.server-name
 /^.*?animevietsub.*?$/##^main > .watch-notice
 /^.*?animevietsub.*?$/##^.Footer
-/^.*?animevietsub.*?$/##^.ad-center-header.Adv
+/^.*?animevietsub.*?$/$replace=/(<div class="Adv ad-center-header"[\s\S]*?>)[\s\S]*?<\/a>/<div><div>/
 /^.*?animevietsub.*?$/##^.ad-center-980.Adv
 /^.*?animevietsub.*?$/##^.home_ads.Ads
 /^.*?animevietsub.*?$/##^.ads_player.Ads
