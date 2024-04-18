@@ -1,3 +1,19 @@
+hentaivn.icu##^.headerclick_2
+hentaivn.icu##^#tag_z
+hentaivn.icu##^.container > p
+hentaivn.icu##^.size_70
+hentaivn.icu##^div.page-70 > .page-70
+!
+hentaivn.icu##^.bookmark
+hentaivn.icu##^.size_80
+hentaivn.icu##^.page-70 > .green.page-title
+!
+hentaivn.icu##^.red.page-title
+hentaivn.icu##^.blue.page-title
+hentaivn.icu##^.page_like
+hentaivn.icu##^#inner-randommobile
+hentaivn.icu##^.footer
+
 /^.*?hen.*?vn.*?$/##^.logotop
 /^.*?hen.*?vn.*?$/##^h4
 /^.*?hen.*?vn.*?$/##^.nav-login
