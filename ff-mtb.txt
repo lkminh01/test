@@ -1,3 +1,23 @@
+/^.*?anime47.*?$/##^.header-logo
+/^.*?anime47.*?$/##^.widget_user_header
+/^.*?anime47.*?$/##^nav
+/^.*?anime47.*?$/##^.nominated-movie.row
+/^.*?anime47.*?$/##^.widget-title
+/^.*?anime47.*?$/##^.last-film-box-wrapper > .last-film-box
+/^.*?anime47.*?$/##^.last-film-box-wrapper > .xem-them
+/^.*?anime47.*?$/##^.col-lg-4
+!
+/^.*?anime47.*?$/##^.list-movie-filter
+/^.*?anime47.*?$/##^.header-list-index
+/^.*?anime47.*?$/##^.name
+/^.*?anime47.*?$/##^.btn-block
+/^.*?anime47.*?$/##^#film-content > p
+/^.*?anime47.*?$/##^.play_comment
+!
+/^.*?anime47.*?$/$replace=/(<div class="user-action"[\s\S]*?>)[\s\S]*?<\/div>[\s\S]*?<div class="box-rating">/<br><br><br><div class="box-rating">/
+/^.*?anime47.*?$/##^#thongbao
+/^.*?anime47.*?$/##^.footer
+!
 /^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/div>/<div class="col-md-3 col-sm-6 slogan"><h4><a href="\/">Trang chủ<\/a><\/h4><\/div>/
 /^.*?hhhay.*?$/##^.hidden-xs.col-md-4
 /^.*?hhhay.*?$/##^.navbar-container
