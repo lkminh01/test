@@ -10,6 +10,10 @@
 /^.*?hen.*?vn.*?$/##^.qx_main2
 /^.*?hen.*?vn.*?$/##^.block-right
 !
+/^.*?hen.*?vn.*?$/##^.header-logo
+/^.*?hen.*?vn.*?$/##^.headerclick_2
+/^.*?hen.*?vn.*?$/$replace=/(<div class="filter"[\s\S]*?>)[\s\S]*?<div class="main">/<div class="head-nav"> <ul class="ul-nav"> <li class="li-nav"> <a href="\/" class="a-nav">Trang chủ<\/a> <\/li> <li class="li-nav"><ul style="float: left;position: relative;"><a href="javascript:void(0);" data-toggle="dropdown" class="a-nav a-drop-2" onclick="tagAction('1');"><div>Thể Loại<\/div><\/a><ul role="menu" class="drop-menu drop-2" style="width: 970px;margin-left: -222px;" id="1_tags"><script type="text\/javascript" src="https:\/\/static.htvncdn.net\/js\/genres-menu-open-pc-1.min.js"><\/script><\/ul><\/ul><\/li><a href="\/forum\/search-plus.php">Tìm kiếm nâng cao<\/a> <\/ul><\/div> <div class="main">/
+!
 /^.*?hen.*?vn.*?$/##^.bar-title-dark
 /^.*?hen.*?vn.*?$/##^.page-uploader
 !
