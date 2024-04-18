@@ -1,30 +1,40 @@
-/^.*?animevietsub.*?$/$replace=/(<figure class="Logo"[\s\S]*?>)[\s\S]<\/figure>/<figure class="Logo"><a href="\/""><h4>Trang chủ<\/h4><\/a><\/figure>/
-animevietsub.day##^.Menu
-animevietsub.day##^.Login
-animevietsub.day##^.announcement
-animevietsub.day##^.MovieListTopCn
-animevietsub.day##^.MovieListSldCn
-animevietsub.day##^.Top
-animevietsub.day##^#new-home
-animevietsub.day##^#hot-home
-animevietsub.day##^.widget-area
-animevietsub.day##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
+/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
+/^.*?animevietsub.*?$/##^.Menu
+/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
+/^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtnClose
+/^.*?animevietsub.*?$/##^.Login
+/^.*?animevietsub.*?$/##^.announcement
+/^.*?animevietsub.*?$/##^.MovieListTopCn
+/^.*?animevietsub.*?$/##^.MovieListSldCn
+/^.*?animevietsub.*?$/##^.Top
+/^.*?animevietsub.*?$/##^#new-home
+/^.*?animevietsub.*?$/##^#hot-home
+/^.*?animevietsub.*?$/##^.widget-area
 !
-animevietsub.day##^.breadcrumb
-animevietsub.day##^.schedule-title-main
+/^.*?animevietsub.*?$/##^.SearchMovies.list-movie-filter
+/^.*?animevietsub.*?$/##^.filter-toggle
+/^.*?animevietsub.*?$/##^.schedule-title-main
 !
-animevietsub.day##^.social-button
-animevietsub.day##^.tools-box
-animevietsub.day##^.VotesCn
-animevietsub.day##^.AAIco-remove_red_eye.View
-animevietsub.day##^.MovieTabNav
-animevietsub.day##^.fbcmt
-animevietsub.day##^#mv-keywords
-animevietsub.day##^.Title
-/^.*?animevietsub.*?$/##.owl-theme.owl-carousel.MovieListRelated
+/^.*?animevietsub.*?$/##^.social-button
+/^.*?animevietsub.*?$/##^.tools-box
+/^.*?animevietsub.*?$/##^.VotesCn
+/^.*?animevietsub.*?$/##^.AAIco-remove_red_eye.View
+/^.*?animevietsub.*?$/##^.MovieTabNav
+/^.*?animevietsub.*?$/##^.fbcmt
+/^.*?animevietsub.*?$/##^#mv-keywords
+/^.*?animevietsub.*?$/##^.Wdgt > .Title
+/^.*?animevietsub.*?$/##^.owl-carousel.MovieListRelated
 !
-animevietsub.day##^.alerts.box-content
-animevietsub.day##^.History-notif
-animevietsub.day###links-backup > h3
-animevietsub.day##^.server-name
-animevietsub.day##^.Footer
+/^.*?animevietsub.*?$/##^.History-notif
+/^.*?animevietsub.*?$/###links-backup > h3
+/^.*?animevietsub.*?$/##^.server-name
+/^.*?animevietsub.*?$/##^main > .watch-notice
+/^.*?animevietsub.*?$/##^.Footer
+/^.*?animevietsub.*?$/##^.ad-center-header.Adv
+/^.*?animevietsub.*?$/##^.ad-center-980.Adv
+/^.*?animevietsub.*?$/##^.home_ads.Ads
+/^.*?animevietsub.*?$/##^.ads_player.Ads
+/^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
+/^.*?animevietsub.*?$/##^.pc-catfixx
+/^.*?animevietsub.*?$/##^.mobile-catfixx
+
