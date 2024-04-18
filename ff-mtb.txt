@@ -1,3 +1,37 @@
+/^.*?blogtruyenmoi.*?$/##^.hidden-xs.hidden-sm.col-md-3
+/^.*?blogtruyenmoi.*?$/##^.top-menu.col-sm-8.col-md-6
+/^.*?blogtruyenmoi.*?$/##^#banner
+/^.*?blogtruyenmoi.*?$/##^#menu
+/^.*?blogtruyenmoi.*?$/##^#mota
+/^.*?blogtruyenmoi.*?$/##^#storyPinked
+/^.*?blogtruyenmoi.*?$/##^.widget-top-forum
+/^.*?blogtruyenmoi.*?$/##^.mb10.pd10.bg-white.view-type
+/^.*?blogtruyenmoi.*?$/##^.tabs.portlet-content
+/^.*?blogtruyenmoi.*?$/##^#top-newest-story
+/^.*?blogtruyenmoi.*?$/##^#top-newest-comment
+/^.*?blogtruyenmoi.*?$/##^.portlet-content
+/^.*?blogtruyenmoi.*?$/##.ui-sortable.sidebar.col-md-4
+!
+/^.*?blogtruyenmoi.*?$/##^.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
+/^.*?blogtruyenmoi.*?$/##^.navbar-nav.nav
+/^.*?blogtruyenmoi.*?$/##^.navbar-toggle
+/^.*?blogtruyenmoi.*?$/##^.widget-forum-comment
+/^.*?blogtruyenmoi.*?$/##^.widget-pinned
+!
+/^.*?blogtruyenmoi.*?$/##^.description > .row
+/^.*?blogtruyenmoi.*?$/##^.social-button.al-c
+/^.*?blogtruyenmoi.*?$/##^.votes
+/^.*?blogtruyenmoi.*?$/##^.relative-storys
+/^.*?blogtruyenmoi.*?$/##^.comment-area
+!
+/^.*?blogtruyenmoi.*?$/##^.mt15.bt-bookmark
+/^.*?blogtruyenmoi.*?$/##^.area-comment
+!
+/^.*?blogtruyenmoi.*?$/##^.btn_report
+/^.*?blogtruyenmoi.*?$/##^[src="//blogtruyenmoi.com/donate.html?v=7"]
+/^.*?blogtruyenmoi.*?$/##^.comments.bg-white
+/^.*?blogtruyenmoi.*?$/##^footer
+!
 /^.*?nettruyen.*?$/##^.navbar-brand
 /^.*?nettruyen.*?$/##.notifications
 /^.*?nettruyen.*?$/##^.navbar-collapse > .Module-144.Module
