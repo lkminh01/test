@@ -1,3 +1,20 @@
+/^.*?hen.*?vn.*?$/##^.logotop
+/^.*?hen.*?vn.*?$/##^h4
+/^.*?hen.*?vn.*?$/##^.nav-login
+/^.*?hen.*?vn.*?$/$replace=/(<div class="head-nav"[\s\S]*?>)[\s\S]*?<div class="container">/<div class="head-nav"> <ul class="ul-nav"> <li class="li-nav"> <a href="\/" class="a-nav">Trang chủ<\/a> <\/li> <li class="li-nav"><ul style="float: left;position: relative;"><a href="javascript:void(0);" data-toggle="dropdown" class="a-nav a-drop-2" onclick="tagAction('1');"><div>Thể Loại<\/div><\/a><ul role="menu" class="drop-menu drop-2" style="width: 970px;margin-left: -222px;" id="1_tags"><script type="text\/javascript" src="https:\/\/static.htvncdn.net\/js\/genres-menu-open-pc-1.min.js"><\/script><\/ul><\/ul><\/li><a href="\/forum\/search-plus.php">Tìm kiếm nâng cao<\/a> <\/ul><\/div> <div class="container">/
+/^.*?hen.*?vn.*?$/##^.main > p
+/^.*?hen.*?vn.*?$/##^.main > .qx_main
+/^.*?hen.*?vn.*?$/##^.qx_main
+/^.*?hen.*?vn.*?$/##^.bar-title-dark
+/^.*?hen.*?vn.*?$/##^.page-new
+/^.*?hen.*?vn.*?$/##^.qx_main2
+/^.*?hen.*?vn.*?$/##^.block-right
+!
+/^.*?hen.*?vn.*?$/##^.bar-title-dark
+/^.*?hen.*?vn.*?$/##^.page-uploader
+!
+/^.*?hen.*?vn.*?$/##^.div_ps
+!
 /^.*?blogtruyenmoi.*?$/##^.hidden-xs.hidden-sm.col-md-3
 /^.*?blogtruyenmoi.*?$/##^.top-menu.col-sm-8.col-md-6
 /^.*?blogtruyenmoi.*?$/##^#banner
