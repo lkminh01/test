@@ -7,6 +7,7 @@
 /^.*?hhhay.*?$/##^#halim-advanced-widget-20
 /^.*?hhhay.*?$/##^#halim-advanced-widget-17
 /^.*?hhhay.*?$/##^.col-md-4.col-sm-12.col-xs-12
+/^.*?hhhay.*?$/##^#easy-top
 !
 /^.*?hhhay.*?$/##^.primary_ribbon.bookmark-img-animation.halim_bookmark
 /^.*?hhhay.*?$/##^.single-info.ratings_wrapper
