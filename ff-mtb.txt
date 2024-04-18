@@ -1,3 +1,27 @@
+/^.*?hhhay.*?$/$replace=/(<div class="col-md-3 col-sm-6 slogan"[\s\S]*?>)[\s\S]*?<\/div>/<div class="col-md-3 col-sm-6 slogan"><h4><a href="\/">Trang chủ<\/a><\/h4><\/div>/
+/^.*?hhhay.*?$/##^.hidden-xs.col-md-4
+/^.*?hhhay.*?$/##^.navbar-container
+/^.*?hhhay.*?$/##^.fullwith-slider.row
+/^.*?hhhay.*?$/##^.halim-panel-filter
+/^.*?hhhay.*?$/##^.section-heading
+/^.*?hhhay.*?$/##^#halim-advanced-widget-20
+/^.*?hhhay.*?$/##^#halim-advanced-widget-17
+/^.*?hhhay.*?$/##^.col-md-4.col-sm-12.col-xs-12
+!
+/^.*?hhhay.*?$/##^.primary_ribbon.bookmark-img-animation.halim_bookmark
+/^.*?hhhay.*?$/##^.single-info.ratings_wrapper
+/^.*?hhhay.*?$/##^.halim_showtime_movies
+/^.*?hhhay.*?$/##^.related-movies
+/^.*?hhhay.*?$/##^.the_tag_list
+!
+/^.*?hhhay.*?$/##^.watch-page.title-block
+/^.*?hhhay.*?$/##^.halim--notice
+/^.*?hhhay.*?$/##^.\/.button-watch
+/^.*?hhhay.*?$/##^.nav-tabs.nav
+/^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
+/^.*?hhhay.*?$/##^#footer
+/^.*?hhhay.*?$/##^.footer-credit
+!
 /^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
 /^.*?animevietsub.*?$/##^.Menu
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
@@ -37,4 +61,4 @@
 /^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
 /^.*?animevietsub.*?$/##^.pc-catfixx
 /^.*?animevietsub.*?$/##^.mobile-catfixx
-
+!
