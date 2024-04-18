@@ -1,5 +1,7 @@
 /^.*?nettruyen.*?$/##^.navbar-brand
 /^.*?nettruyen.*?$/##.notifications
+/^.*?nettruyen.*?$/##^.navbar-collapse > .Module-144.Module
+/^.*?nettruyen.*?$/##^.navbar-collapse > .list-inline.nav-account
 /^.*?nettruyen.*?$/##^.pull-right.hidden-xs.list-inline.nav-account
 /^.*?nettruyen.*?$/##^.hidden-xs.main-nav
 /^.*?nettruyen.*?$/##^.hidden-xs.container
