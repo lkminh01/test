@@ -242,8 +242,9 @@
 /^.*?animevietsub.*?$/##^.server-name
 /^.*?animevietsub.*?$/##^main > .watch-notice
 /^.*?animevietsub.*?$/##^.Footer
+/^.*?animevietsub.*?$/##^.header-mobile
 /^.*?animevietsub.*?$/$replace=/(<div class="Adv ad-center-header"[\s\S]*?>)[\s\S]*?<\/a>/<div><div>/
-/^.*?animevietsub.*?$/##^.ad-center-980.Adv
+/^.*?animevietsub.*?$/$replace=/(<div class="Adv ad-center-980"[\s\S]*?>)[\s\S]<div class="TpRwCont">/<div class="TpRwCont">/
 /^.*?animevietsub.*?$/##^.home_ads.Ads
 /^.*?animevietsub.*?$/##^.ads_player.Ads
 /^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
