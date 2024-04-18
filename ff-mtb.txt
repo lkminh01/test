@@ -1,3 +1,30 @@
+/^.*?animehay.*?$/$replace=/(<div class="logo"[\s\S]*?>)[\s\S]*?<\/div>/<a href="\/">Trang chủ<\/a>/
+/^.*?animehay.*?$/##^.flex.flex-wrap.nav-items
+/^.*?animehay.*?$/##^.noti-success
+/^.*?animehay.*?$/##^.ah-carousel
+/^.*?animehay.*?$/##^.flex-space-auto.flex.bg-gray-2.margin-10-0
+!
+/^.*?animehay.*?$/##^.title_tab
+!
+/^.*?animehay.*?$/##^.score
+/^.*?animehay.*?$/##^.flex-wrap.ah-frame-bg.flex
+/^.*?animehay.*?$/##^.info-movie > div.ah-frame-bg > .flex-space-auto.flex
+/^.*?animehay.*?$/##^.fw-500.flex-ver-center.flex
+/^.*?animehay.*?$/##^.margin-t-10
+!
+/^.*?animehay.*?$/##^.bg-black.margin-10-0.fw-700.ah-frame-bg
+/^.*?animehay.*?$/##^.bg-red.noti-info
+/^.*?animehay.*?$/##^.bg-cod-gray.flex-space-between.flex.control-bar
+/^.*?animehay.*?$/##.flex-hozi-center.flex.color-white.noti-warning
+/^.*?animehay.*?$/##^.bg-lochinvar.fw-700.flex-hozi-center.flex.button-default
+/^.*?animehay.*?$/##^div.margin-10.flex-ver-center.flex > .bg-blue.fw-700.flex-hozi-center.flex.button-default
+/^.*?animehay.*?$/##^.bg-red.fw-700.flex-hozi-center.flex.button-default
+/^.*?animehay.*?$/##^.fw-700.flex-hozi-center.flex.padding-10-20.button-default
+/^.*?animehay.*?$/##^.fw-700.flex-space-auto.flex.heading
+/^.*?animehay.*?$/##^.under_player.flex-hozi-center.flex-column.flex
+/^.*?animehay.*?$/##^div.ah-frame-bg > .flex-space-auto.flex
+/^.*?animehay.*?$/##^.ah_footer
+!
 /^.*?vuighe.*?$/$replace=/(<a class=""[\s\S]*?>)[\s\S]*?<\/a>/<a href="\/" style="display: grid; place-items: center;">Trang chủ<\/a>/
 /^.*?vuighe.*?$/##^.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
 /^.*?vuighe.*?$/##^.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
