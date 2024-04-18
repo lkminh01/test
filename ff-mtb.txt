@@ -12,7 +12,7 @@
 !
 /^.*?hen.*?vn.*?$/##^.header-logo
 /^.*?hen.*?vn.*?$/##^.headerclick_2
-/^.*?hen.*?vn.*?$/$replace=/(<div class="filter"[\s\S]*?>)[\s\S]*?<div class="main">/<div class="filter"> <ul class="top-nav"> <li class="top-nav" onclick="\$('.tag_z').hide();\$('.tag_1').hide();"><a id="tag_x" href="javascript:void(0);" onclick="tagAction('1');">Thể Loại<\/a><\/li> <a href="\/forum\/search-plus.php">Tìm kiếm nâng cao<\/a> <\/ul><\/div> <div class="main">/
+/^.*?hen.*?vn.*?$/$replace=/(<div class="filter"[\s\S]*?>)[\s\S]*?<div class="main">/<div class="filter"> <ul class="top-nav"> <li class="top-nav"> <a href="\/">Trang chủ<\/a> <\/li> <li class="top-nav" onclick="\$('.tag_z').hide();\$('.tag_1').hide();"><a id="tag_x" href="javascript:void(0);" onclick="tagAction('1');">Thể Loại<\/a><\/li> <a href="\/forum\/search-plus.php">Tìm kiếm nâng cao<\/a> <\/ul><\/div> <div class="main">/
 
 !
 /^.*?hen.*?vn.*?$/##^.bar-title-dark
