@@ -1,103 +1,32 @@
-! Title: Hidden List Adguard iPad
-!Trang chu
-animevietsub.*##.Logo
-animevietsub.*##.Menu
-animevietsub.*##.Login
-animevietsub.*##.announcement
-animevietsub.*##.MovieListTopCn
-animevietsub.*##.MovieListSldCn
-animevietsub.*##.Top
-animevietsub.*###new-home
-animevietsub.*###hot-home
-animevietsub.*##.widget-area
-!Tim kiem
-animevietsub.*##.SearchMovies.list-movie-filter
-!Trang thong tin
-animevietsub.*##.social-button
-animevietsub.*##.VotesCn
-animevietsub.*##.AAIco-date_range.Date
-animevietsub.*##.AAIco-remove_red_eye.View
-animevietsub.*##.MovieTabNav
-animevietsub.*##.fbcmt
-animevietsub.*###mv-keywords
-animevietsub.*###Tp-Wp > div.Body.Container:nth-child(2) > div.Content > div.TpRwCont:last-child > main:first-child > div.Wdgt:last-child > div.Title:first-child
-animevietsub.*##.owl-theme.owl-carousel.MovieListRelated
-!Trang xem phim
-animevietsub.*##.alerts.box-content
-animevietsub.*##.History-notif
-animevietsub.*###links-backup > h3
-animevietsub.*##.links-backup
-animevietsub.*###watch-block > center
-animevietsub.*##.server-name
-animevietsub.*##.Footer
-!Trang chu
-vuighe3.*##.z-50.s1366\:mr-3.s1280\:mr-2.shrink-0.justify-between.flex.s768\:w-\[180px\].w-\[200px\].h-\[50px\].navbar-brand
-vuighe3.*##.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-vuighe3.*##.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-vuighe3.*##.s768\:order-4.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-vuighe3.*##.s768\:order-5.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
-vuighe3.*##.gap-2.justify-end.flex.ml-auto.s1366\:w-\[320px\].s1280\:w-\[294px\].s1024\:w-\[145px\].h-\[40px\].shrink-0.relative.navbar-user
-vuighe3.*##.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[20px\]
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(4)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(5)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(6)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(7)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(8)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\]:nth-of-type(9)
-!Trang xem phim
-vuighe3.*##.s1024\:block.items-center.justify-between.flex
-vuighe3.*##.s1024\:gap-3.gap-2.s1024\:flex.s1024\:px-0.px-\[10px\].mt-\[30px\] > .s1366\:w-\[960px\].s1280\:w-\[880px\].s1024\:w-\[640px\].w-full > .mb-2
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\].container:nth-of-type(1)
-vuighe3.*##section.clear-both.s1024\:p-0.pr-\[10px\].pl-\[10px\].mt-\[30px\].container:nth-of-type(2)
-!Trang chu
-anime47.*##.logo
-anime47.*##.widget_user_header
-anime47.*##nav
-anime47.*##.nominated-movie.row
-anime47.*##div.update.block:nth-of-type(2)
-anime47.*##div.update.block:nth-of-type(3)
-anime47.*##.col-lg-4
-!Tim kiem
-anime47.*##.header-list-index
-!Trang thong tin
-anime47.*##li.item:nth-of-type(1)
-anime47.*##li.item:nth-of-type(2)
-anime47.*##div.fb_iframe_widget.like-at-content.fb-like
-anime47.*###film-content > p
-anime47.*##.play_comment
-Trang xem phim
-anime47.*##.toggle-light.btn-cs
-anime47.*##a#favorite.add-favorite.btn-cs:nth-of-type(1)
-anime47.*##.toggle-size.btn-cs
-anime47.*##.autoprev.btn-cs
-anime47.*##.autonext.btn-cs
-anime47.*##.error-player.btn-cs
-anime47.*##.show_hide.btn-cs
-anime47.*##a#favorite.add-favorite.btn-cs:nth-of-type(5)
-anime47.*##.remove-ad.btn-cs
-anime47.*##.icon-capture-frame.btn-cs-icon
-anime47.*###btn-toggle-capture > span
-anime47.*##.box-rating
-anime47.*##.server > .name
-anime47.*##.footer
-!Trang chu
-hhhay.*##.slogan.col-sm-6.col-md-3
-hhhay.*##.hidden-xs.col-md-4
-hhhay.*##.navbar-container
-hhhay.*##.fullwith-slider.row
-hhhay.*###halim-advanced-widget-20
-hhhay.*###halim-advanced-widget-17
-hhhay.*###sidebar
-!Trang thong tin
-hhhay.*##.single-info.ratings_wrapper
-hhhay.*##.related-movies
-hhhay.*##.the_tag_list
-!Trang xem phim
-hhhay.*##.primary_ribbon.bookmark-img-animation
-hhhay.*##.ratings_wrapper
-hhhay.*##.halim--notice
-hhhay.*##.\/.button-watch
-hhhay.*##.nav-tabs.nav
-hhhay.*##.clearfix.fb-comment.htmlwrap
-hhhay.*##.footer-credit
-hhhay.*###footer
+animevietsub.day##.Logo
+animevietsub.day##.Login
+animevietsub.day##[href="/anime-moi/"]
+animevietsub.day##[href="https://animevietsub.day/phim/chien-thuat-ngu-hanh-a5008/"]
+animevietsub.day##[href="/lich-su/"]
+animevietsub.day###menu-item-495 > [href="#"]
+animevietsub.day##.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item > [href]
+animevietsub.day###menu-item-494 > [href="#"]
+animevietsub.day###menu-item-497 > [href="#"]
+animevietsub.day##[href="/anime/library/0-9/"]
+animevietsub.day##[href="/lich-chieu-phim.html"]
+animevietsub.day##li.menu-item-493.menu-item-object-page.menu-item-type-post_type.menu-item:nth-of-type(3)
+animevietsub.day##.announcement
+animevietsub.day##.MovieListTopCn
+animevietsub.day###single-home > .Top
+animevietsub.day###new-home
+animevietsub.day###hot-home
+animevietsub.day##.widget-area
+animevietsub.day##.SearchMovies.list-movie-filter
+animevietsub.day##.social-button
+animevietsub.day##.tools-box
+animevietsub.day##.VotesCn
+animevietsub.day##.AAIco-remove_red_eye.View
+animevietsub.day##.MovieTabNav
+animevietsub.day##.fbcmt
+animevietsub.day##.History-notif
+animevietsub.day###links-backup > h3
+animevietsub.day##.schedule-title-main
+animevietsub.day##.server-name
+animevietsub.day##main > .watch-notice
+animevietsub.day##.Footer
+!
