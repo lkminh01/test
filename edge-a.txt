@@ -1,10 +1,5 @@
 /^.*?animevietsub.*?$/##.Logo
-/^.*?animevietsub.*?$/##.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
-/^.*?animevietsub.*?$/##.menu-item-494.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
-/^.*?animevietsub.*?$/##.menu-item-495.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
-/^.*?animevietsub.*?$/##.menu-item-497.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
-/^.*?animevietsub.*?$/##[href="/anime/library/0-9/"]
-/^.*?animevietsub.*?$/##[href="/lich-chieu-phim.html"]
+/^.*?animevietsub.*?$/##.Menu
 /^.*?animevietsub.*?$/##.Login
 /^.*?animevietsub.*?$/##.announcement
 /^.*?animevietsub.*?$/##.MovieListTopCn
