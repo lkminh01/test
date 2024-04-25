@@ -1,0 +1,36 @@
+/^.*?animevietsub.*?$/##.Logo
+/^.*?animevietsub.*?$/##.menu-item-493.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+/^.*?animevietsub.*?$/##.menu-item-494.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+/^.*?animevietsub.*?$/##.menu-item-495.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+/^.*?animevietsub.*?$/##.menu-item-497.menu-item-has-children.menu-item-object-custom.menu-item-type-custom.menu-item
+/^.*?animevietsub.*?$/##[href="/anime/library/0-9/"]
+/^.*?animevietsub.*?$/##[href="/lich-chieu-phim.html"]
+/^.*?animevietsub.*?$/##.Login
+/^.*?animevietsub.*?$/##.announcement
+/^.*?animevietsub.*?$/##.MovieListTopCn
+/^.*?animevietsub.*?$/##.MovieListSldCn
+/^.*?animevietsub.*?$/###single-home > .Top
+/^.*?animevietsub.*?$/###new-home
+/^.*?animevietsub.*?$/###hot-home
+/^.*?animevietsub.*?$/##.widget-area
+!
+/^.*?animevietsub.*?$/##.SearchMovies.list-movie-filter
+!
+/^.*?animevietsub.*?$/##.social-button
+/^.*?animevietsub.*?$/##.tools-box
+/^.*?animevietsub.*?$/##.VotesCn
+/^.*?animevietsub.*?$/##.AAIco-remove_red_eye.View
+/^.*?animevietsub.*?$/##.MovieTabNav
+/^.*?animevietsub.*?$/##.fbcmt
+/^.*?animevietsub.*?$/###mv-keywords
+/^.*?animevietsub.*?$/##main > .Wdgt > .Title
+/^.*?animevietsub.*?$/##.owl-theme.owl-carousel.MovieListRelated
+!
+/^.*?animevietsub.*?$/##.History-notif
+/^.*?animevietsub.*?$/###links-backup > h3
+/^.*?animevietsub.*?$/###watch-block > center
+/^.*?animevietsub.*?$/###list-server > .schedule-title-main
+/^.*?animevietsub.*?$/##.server-name
+/^.*?animevietsub.*?$/##main > .watch-notice
+/^.*?animevietsub.*?$/##.Footer
+!
