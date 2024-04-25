@@ -1,4 +1,3 @@
-/^.*?animevietsub.*?$/##.Logo
 /^.*?animevietsub.*?$/##.Menu
 /^.*?animevietsub.*?$/##.Login
 /^.*?animevietsub.*?$/##.announcement
