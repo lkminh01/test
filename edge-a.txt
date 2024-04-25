@@ -48,6 +48,8 @@
 /^.*?nettruyen.*?$/##.btn-success.btn.follow-link
 /^.*?nettruyen.*?$/##.footer
 !
+/^.*?nettruyen.*?$/##.navbar-toggle
+!
 /^.*?lxmanga.*?$/##.justify-center.items-center.flex
 /^.*?lxmanga.*?$/##.truncate.flex
 /^.*?lxmanga.*?$/##[href="/theo-doi"]
