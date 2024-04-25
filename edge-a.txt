@@ -1,3 +1,25 @@
+/^.*?nettruyen.*?$/##.logo
+/^.*?nettruyen.*?$/##.notifications > [href] > .fa-comment.fa
+/^.*?nettruyen.*?$/##.pull-right.hidden-xs.list-inline.nav-account
+/^.*?nettruyen.*?$/##.hidden-xs.main-nav
+/^.*?nettruyen.*?$/##.hidden-xs.container
+/^.*?nettruyen.*?$/##.cmszone.altcontent1
+/^.*?nettruyen.*?$/##.relative
+/^.*?nettruyen.*?$/##.cmszone.col-md-4.right-side
+!
+/^.*?nettruyen.*?$/##.mrb10.mrt5
+/^.*?nettruyen.*?$/##.rating.row
+/^.*?nettruyen.*?$/##.follow
+/^.*?nettruyen.*?$/##.lazy-module.main-tab.nav-tabs.nav
+/^.*?nettruyen.*?$/##.tab-content
+/^.*?nettruyen.*?$/##.col-md-4.right-side
+!
+/^.*?nettruyen.*?$/##.facebook-like
+/^.*?nettruyen.*?$/##.btn-warning.btn.alertError
+/^.*?nettruyen.*?$/##.hidden-sm.hidden-xs.mrb10.alert-info.alert
+/^.*?nettruyen.*?$/##.btn-success.btn.follow-link
+/^.*?nettruyen.*?$/##.footer
+!
 /^.*?lxmanga.*?$/##.justify-center.items-center.flex
 /^.*?lxmanga.*?$/##.truncate.flex
 /^.*?lxmanga.*?$/##[href="/theo-doi"]
