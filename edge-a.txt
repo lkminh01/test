@@ -1,3 +1,23 @@
+/^.*?hentaivn.*?$/##.logotop
+/^.*?hentaivn.*?$/##.a-drop-1.a-nav
+/^.*?hentaivn.*?$/##[href="/the-loai-37-full_color.html"]
+/^.*?hentaivn.*?$/##[href="/the-loai-99-khong_che.html"]
+/^.*?hentaivn.*?$/##[href="/the-loai-87-series.html"]
+/^.*?hentaivn.*?$/##[href="/login.php"]
+/^.*?hentaivn.*?$/##.main > p
+/^.*?hentaivn.*?$/##.main > .qx_main
+/^.*?hentaivn.*?$/##.block-left > .qx_main
+/^.*?hentaivn.*?$/##.bar-title-dark
+/^.*?hentaivn.*?$/##.page-new
+/^.*?hentaivn.*?$/##.qx_main2
+/^.*?hentaivn.*?$/##.block-right
+!
+/^.*?hentaivn.*?$/##.bar-title-red2
+/^.*?hentaivn.*?$/##.page-uploader
+!
+/^.*?hentaivn.*?$/###qxx
+/^.*?hentaivn.*?$/##.footer
+!
 /^.*?animehay.*?$/##.flex.flex-wrap.nav-items
 /^.*?animehay.*?$/##.noti-success
 /^.*?animehay.*?$/##.ah-carousel
