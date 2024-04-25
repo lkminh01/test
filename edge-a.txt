@@ -1,3 +1,24 @@
+/^.*?blogtruyenmoi.*?$/##.hidden-xs.hidden-sm.col-md-3
+/^.*?blogtruyenmoi.*?$/##.col-sm-12 > .menu
+/^.*?blogtruyenmoi.*?$/###banner
+/^.*?blogtruyenmoi.*?$/###menu
+/^.*?blogtruyenmoi.*?$/###mota
+/^.*?blogtruyenmoi.*?$/###storyPinked
+/^.*?blogtruyenmoi.*?$/##.widget-top-forum
+/^.*?blogtruyenmoi.*?$/##div.ui-helper-clearfix.ui-widget-content.ui-widget.portlet:nth-of-type(1)
+/^.*?blogtruyenmoi.*?$/##.ui-sortable.sidebar.col-md-4
+!
+/^.*?blogtruyenmoi.*?$/##.like-buttons
+/^.*?blogtruyenmoi.*?$/##.story-note
+/^.*?blogtruyenmoi.*?$/##.social-button.al-c
+/^.*?blogtruyenmoi.*?$/##.votes
+/^.*?blogtruyenmoi.*?$/##.relative-storys
+/^.*?blogtruyenmoi.*?$/##.comment-area
+!
+/^.*?blogtruyenmoi.*?$/##.control
+/^.*?blogtruyenmoi.*?$/##[src="//blogtruyenmoi.com/donate.html?v=7"]
+/^.*?blogtruyenmoi.*?$/##.comments.bg-white
+!
 /^.*?nettruyen.*?$/##.logo
 /^.*?nettruyen.*?$/##.notifications > [href] > .fa-comment.fa
 /^.*?nettruyen.*?$/##.pull-right.hidden-xs.list-inline.nav-account
