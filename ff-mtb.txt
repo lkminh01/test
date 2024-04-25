@@ -25,38 +25,40 @@
 /^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
 /^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
 !
-/^.*?hen.*?vn.*?$/##^.logotop
-/^.*?hen.*?vn.*?$/##^.nav-login
-/^.*?hen.*?vn.*?$/$replace=/(<div class="head-nav"[\s\S]*?>)[\s\S]*?<div class="container">/<div class="head-nav"> <ul class="ul-nav"> <li class="li-nav"> <a href="\/" class="a-nav">Trang chủ<\/a> <\/li> <li class="li-nav"><ul style="float: left;position: relative;"><a href="javascript:void(0);" data-toggle="dropdown" class="a-nav a-drop-2" onclick="tagAction('1');"><div>Thể Loại<\/div><\/a><ul role="menu" class="drop-menu drop-2" style="width: 970px;margin-left: -222px;" id="1_tags"><script type="text\/javascript" src="https:\/\/static.htvncdn.net\/js\/genres-menu-open-pc-1.min.js"><\/script><\/ul><\/ul><\/li><\/ul><\/div> <div class="container">/
-/^.*?hen.*?vn.*?$/##^.main > p
-/^.*?hen.*?vn.*?$/##^.main > .qx_main
-/^.*?hen.*?vn.*?$/##^.qx_main
-/^.*?hen.*?vn.*?$/##^.bar-title-dark
-/^.*?hen.*?vn.*?$/##^.page-new
-/^.*?hen.*?vn.*?$/##^.qx_main2
-/^.*?hen.*?vn.*?$/##^.block-right
+/^.*?hentaivn.*?$/##^.logotop
+/^.*?hentaivn.*?$/##^.a-drop-1.a-nav
+/^.*?hentaivn.*?$/##^[href="/the-loai-37-full_color.html"]
+/^.*?hentaivn.*?$/##[href="/the-loai-99-khong_che.html"]
+/^.*?hentaivn.*?$/##^[href="/the-loai-87-series.html"]
+/^.*?hentaivn.*?$/##^[href="/login.php"]
+/^.*?hentaivn.*?$/##^.main > p
+/^.*?hentaivn.*?$/##^.main > .qx_main
+/^.*?hentaivn.*?$/##^.block-left > .qx_main
+/^.*?hentaivn.*?$/##^.bar-title-dark
+/^.*?hentaivn.*?$/##^.page-new
+/^.*?hentaivn.*?$/##^.qx_main2
+/^.*?hentaivn.*?$/##^.block-right
 !
-/^.*?hen.*?vn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
-/^.*?hen.*?vn.*?$/##^.headerclick_2
-/^.*?hen.*?vn.*?$/##^#tag_z
-/^.*?hen.*?vn.*?$/##^.container > p
-/^.*?hen.*?vn.*?$/##^.size_70
-/^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
+/^.*?hentaivn.*?$/##^.bar-title-red2
+/^.*?hentaivn.*?$/##^.page-uploader
 !
-/^.*?hen.*?vn.*?$/##^.bar-title-dark
-/^.*?hen.*?vn.*?$/##^.page-uploader
+/^.*?hentaivn.*?$/##^#qxx
+/^.*?hentaivn.*?$/##^.footer
 !
-/^.*?hen.*?vn.*?$/##^.bookmark
-/^.*?hen.*?vn.*?$/##^.size_80
-/^.*?hen.*?vn.*?$/##^.page-70 > .green.page-title
+/^.*?hentaivn.*?$/##^.headerclick_2
+/^.*?hentaivn.*?$/##^#tag_z
+/^.*?hentaivn.*?$/##^.container > p
+/^.*?hentaivn.*?$/##^.size_70
+/^.*?hentaivn.*?$/##^.block-right-top
 !
-/^.*?hen.*?vn.*?$/##^.div_ps
+/^.*?hentaivn.*?$/##^.page_like
+/^.*?hentaivn.*?$/##^.size_80
+/^.*?hentaivn.*?$/##^.page-70 > .green.page-title
+/^.*?hentaivn.*?$/##^.main > .page-70 > .content-row
 !
-/^.*?hen.*?vn.*?$/##^.red.page-title
-/^.*?hen.*?vn.*?$/##^.blue.page-title
-/^.*?hen.*?vn.*?$/##^.page_like
-/^.*?hen.*?vn.*?$/##^#inner-randommobile
-/^.*?hen.*?vn.*?$/##^.footer
+/^.*?hentaivn.*?$/##^.red.page-title
+/^.*?hentaivn.*?$/##^.blue.page-title
+/^.*?hentaivn.*?$/##^#inner-randommobile
 !
 /^.*?blogtruyenmoi.*?$/##^.hidden-xs.hidden-sm.col-md-3
 /^.*?blogtruyenmoi.*?$/##^.top-menu.col-sm-8.col-md-6
