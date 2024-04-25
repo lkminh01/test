@@ -83,6 +83,21 @@
 /^.*?hentaivn.*?$/###qxx
 /^.*?hentaivn.*?$/##.footer
 !
+/^.*?hentaivn.*?$/##.headerclick_2
+/^.*?hentaivn.*?$/###tag_z
+/^.*?hentaivn.*?$/##.container > p
+/^.*?hentaivn.*?$/##.size_70
+/^.*?hentaivn.*?$/##.block-right-top
+!
+/^.*?hentaivn.*?$/##.page_like
+/^.*?hentaivn.*?$/##.size_80
+/^.*?hentaivn.*?$/##.page-70 > .green.page-title
+/^.*?hentaivn.*?$/##.main > .page-70 > .content-row
+!
+/^.*?hentaivn.*?$/##.red.page-title
+/^.*?hentaivn.*?$/##.blue.page-title
+/^.*?hentaivn.*?$/###inner-randommobile
+!
 /^.*?animehay.*?$/##.flex.flex-wrap.nav-items
 /^.*?animehay.*?$/##.noti-success
 /^.*?animehay.*?$/##.ah-carousel
