@@ -19,6 +19,13 @@
 /^.*?blogtruyenmoi.*?$/##[src="//blogtruyenmoi.com/donate.html?v=7"]
 /^.*?blogtruyenmoi.*?$/##.comments.bg-white
 !
+/^.*?blogtruyenmoi.*?$/##.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
+/^.*?blogtruyenmoi.*?$/##.navbar-toggle
+/^.*?blogtruyenmoi.*?$/##.widget-forum-comment
+/^.*?blogtruyenmoi.*?$/##.widget-pinned
+/^.*?blogtruyenmoi.*?$/##.area-comment
+/^.*?blogtruyenmoi.*?$/##footer
+!
 /^.*?nettruyen.*?$/##.logo
 /^.*?nettruyen.*?$/##.notifications > [href] > .fa-comment.fa
 /^.*?nettruyen.*?$/##.pull-right.hidden-xs.list-inline.nav-account
