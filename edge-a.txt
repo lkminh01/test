@@ -4,6 +4,7 @@
 /^.*?animehay.*?$/##.flex-space-auto.flex.bg-gray-2.margin-10-0
 !
 /^.*?animehay.*?$/##.title_tab
+!
 /^.*?animehay.*?$/##.flex-wrap.ah-frame-bg.flex
 /^.*?animehay.*?$/##.info-movie > div.ah-frame-bg > .flex-space-auto.flex
 /^.*?animehay.*?$/##.fw-500.flex-ver-center.flex
