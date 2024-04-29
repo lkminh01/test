@@ -221,4 +221,5 @@
 /^.*?animevietsub.*?$/##.server-name
 /^.*?animevietsub.*?$/##main > .watch-notice
 /^.*?animevietsub.*?$/##.Footer
+||googleusercontent.*
 !
