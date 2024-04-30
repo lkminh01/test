@@ -251,5 +251,4 @@
 /^.*?animevietsub.*?$/##^.bellow_ads_player.Ads
 /^.*?animevietsub.*?$/##^.pc-catfixx
 /^.*?animevietsub.*?$/##^.mobile-catfixx
-||googleusercontent.*
 !
