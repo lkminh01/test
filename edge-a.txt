@@ -1,3 +1,20 @@
+/^.*?truyenqq.*?$/##.logo
+/^.*?truyenqq.*?$/##.right button
+/^.*?truyenqq.*?$/##.mobile_display.nav_menu
+/^.*?truyenqq.*?$/##.homepage_suggest
+/^.*?truyenqq.*?$/##.homepage_tags
+!
+/^.*?truyenqq.*?$/##.story-detail-menu
+/^.*?truyenqq.*?$/##.comment-container
+!
+/^.*?truyenqq.*?$/##.note-server
+/^.*?truyenqq.*?$/##.btn-warning.btn.alertError
+/^.*?truyenqq.*?$/##.mrt10.alert-info.alert
+/^.*?truyenqq.*?$/###ad_info_top
+/^.*?truyenqq.*?$/###ad_info
+/^.*?truyenqq.*?$/##.subscribeBook.btn-subscribe.is-rounded.is-danger.button
+/^.*?truyenqq.*?$/##.dark > .div_middle
+!
 /^.*?blogtruyenmoi.*?$/##.hidden-xs.hidden-sm.col-md-3
 /^.*?blogtruyenmoi.*?$/##.col-sm-12 > .menu
 /^.*?blogtruyenmoi.*?$/###banner
