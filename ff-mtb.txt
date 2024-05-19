@@ -52,6 +52,8 @@
 /^.*?hentaivn.*?$/##^.main > .qx_main
 /^.*?hentaivn.*?$/##^.block-left > .qx_main
 /^.*?hentaivn.*?$/##^.bar-title-dark
+/^.*?hentaivn.*?$/##^.bar-titlewhite
+/^.*?hentaivn.*?$/##^.qx_270
 /^.*?hentaivn.*?$/##^.page-new
 /^.*?hentaivn.*?$/##^.qx_main2
 /^.*?hentaivn.*?$/##^.block-right
