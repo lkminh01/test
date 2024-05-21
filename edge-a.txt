@@ -14,6 +14,7 @@
 /^.*?truyenqq.*?$/###ad_info
 /^.*?truyenqq.*?$/##.subscribeBook.btn-subscribe.is-rounded.is-danger.button
 /^.*?truyenqq.*?$/##.dark > .div_middle
+/^.*?truyenqq.*?$/##.chapter_content > p
 !
 /^.*?blogtruyenmoi.*?$/##.hidden-xs.hidden-sm.col-md-3
 /^.*?blogtruyenmoi.*?$/##.col-sm-12 > .menu
