@@ -192,3 +192,31 @@
 /^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
 /^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
 !
+/^.*?hen.*?me.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
+/^.*?hen.*?me.*?$/##^.headerclick_2
+/^.*?hen.*?me.*?$/##^#tag_z
+/^.*?hen.*?me.*?$/##^[href="/forum/"]
+/^.*?hen.*?me.*?$/##^.container > p
+/^.*?hen.*?me.*?$/##^.bar-titlewhite
+/^.*?hen.*?me.*?$/##^.size_70
+/^.*?hen.*?me.*?$/##^.main > div.page-70 > .block-right-top
+/^.*?hen.*?me.*?$/##^.main_top
+/^.*?hen.*?me.*?$/##^.main_top2
+/^.*?hen.*?me.*?$/##^.main_top3
+/^.*?hen.*?me.*?$/##^div.page-70 > .page-70
+/^.*?hen.*?me.*?$/##^.qx_135
+!
+/^.*?hen.*?me.*?$/##^.page_like
+/^.*?hen.*?me.*?$/##^.bookmark
+/^.*?hen.*?me.*?$/##^.size_80
+/^.*?hen.*?me.*?$/##^.page-70 > .green.page-title
+/^.*?hen.*?me.*?$/##^#inner-infotimemobile
+/^.*?hen.*?me.*?$/##^.page-uploader
+/^.*?hen.*?me.*?$/##^.red.page-title
+/^.*?hen.*?me.*?$/##^div.page-70 > .content-row-2
+!
+/^.*?hen.*?me.*?$/##^#inner-randommobile
+/^.*?hen.*?me.*?$/##^.footer
+!
+/^.*?hen.*?me.*?$/$replace=/(<a href="https:\/\/zhentaivn.net)/<a href="https:\/\/hentaiayame.com/g
+!
