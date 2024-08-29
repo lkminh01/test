@@ -11,6 +11,8 @@
 /^.*?hen.*?vn.*?$/##^.main_top3
 /^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
 !
+/^.*?hen.*?vn.*?$/##^.qx_270
+!
 /^.*?hen.*?vn.*?$/##^.page_like
 /^.*?hen.*?vn.*?$/##^.bookmark
 /^.*?hen.*?vn.*?$/##^.size_80
