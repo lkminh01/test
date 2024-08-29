@@ -79,9 +79,9 @@
 /^.*?nettruyen.*?$/##^.lazy-module.main-tab.nav-tabs.nav
 /^.*?nettruyen.*?$/##^.tab-content
 /^.*?nettruyen.*?$/##^.col-md-4.right-side
+/^.*?nettruyen.*?$/##^.banner-affiliate.text-center
 !
 /^.*?nettruyen.*?$/##^.facebook-like
-/^.*?nettruyen.*?$/$replace=/Nếu không xem được truyện vui lòng đổi "SERVER ẢNH" bên dưới//
 /^.*?nettruyen.*?$/##^.btn-warning.btn.alertError
 /^.*?nettruyen.*?$/##.btn-success.btn.follow-link
 /^.*?nettruyen.*?$/##^.comment
