@@ -104,7 +104,7 @@
 /^.*?truyenqq.*?$/##^.btn-warning.btn.alertError
 /^.*?truyenqq.*?$/##^.mrt10.alert-info.alert
 !
-otakusan.net##^.pull-right.main-button.btn-raised.btn-primary.btn
+/^.*?otakusan.*?$/##^.pull-right.main-button.btn-raised.btn-primary.btn
 /^.*?otakusan.*?$/$replace=/(<a class="navbar-brand"[\s\S]*?>)[\s\S]*?<\/a>/<a class="navbar-brand" href="\/"><span class="f">Trang Chủ<\/span><\/a>/
 /^.*?otakusan.*?$/##^.navbar-nav.nav
 /^.*?otakusan.*?$/##^.navbar-toggle
