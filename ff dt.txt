@@ -1,3 +1,52 @@
+/^.*?hen.*?vn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
+/^.*?hen.*?vn.*?$/##^.headerclick_2
+/^.*?hen.*?vn.*?$/##^#tag_z
+/^.*?hen.*?vn.*?$/##^[href="/forum/"]
+/^.*?hen.*?vn.*?$/##^.container > p
+/^.*?hen.*?vn.*?$/##^.bar-titlewhite
+/^.*?hen.*?vn.*?$/##^.size_70
+/^.*?hen.*?vn.*?$/##^.main > div.page-70 > .block-right-top
+/^.*?hen.*?vn.*?$/##^.main_top
+/^.*?hen.*?vn.*?$/##^.main_top2
+/^.*?hen.*?vn.*?$/##^.main_top3
+/^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
+!
+/^.*?hen.*?vn.*?$/##^.page_like
+/^.*?hen.*?vn.*?$/##^.bookmark
+/^.*?hen.*?vn.*?$/##^.size_80
+/^.*?hen.*?vn.*?$/##^.page-uploader
+/^.*?hen.*?vn.*?$/##^.red.page-title
+/^.*?hen.*?vn.*?$/##^div.page-70 > .content-row-2
+/^.*?hen.*?vn.*?$/##^.footer
+!
+/^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
+/^.*?lxmanga.*?$/##^.font-bold.truncate.grow
+/^.*?lxmanga.*?$/##^ul > [href="/"]
+/^.*?lxmanga.*?$/##^[href="https://ihentai.lxmanga.life"]
+/^.*?lxmanga.*?$/##^[href="/shop"]
+/^.*?lxmanga.*?$/##^[href="/my/pets"]
+/^.*?lxmanga.*?$/##^[href="/theo-doi"]
+/^.*?lxmanga.*?$/##^[href="/lich-su"]
+/^.*?lxmanga.*?$/##^[href="/my/achievements"]
+/^.*?lxmanga.*?$/##^[href="https://www.facebook.com/Shoplxer"]
+/^.*?lxmanga.*?$/##^.h-16.justify-between.items-center.flex.relative > .justify-center.items-center.flex
+/^.*?lxmanga.*?$/##^.sm\:inset-auto.sm\:static.pr-2.items-center.flex.right-0.inset-y-0.absolute > .truncate.flex
+/^.*?lxmanga.*?$/##^.md\:mt-\[140px\].mt-\[80px\].w-full.px-3.mx-auto.max-w-7xl > .dark\:shadow-gray-900.rounded.shadow-md.dark\:bg-gray-900.bg-white.p-3.dark\:border-gray-600.border-gray-100.border-2
+/^.*?lxmanga.*?$/##^.justify-start.flex-col.flex.p-2
+/^.*?lxmanga.*?$/##^.md\:grid-cols-8.grid-cols-3.grid
+!
+/^.*?lxmanga.*?$/##.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
+/^.*?lxmanga.*?$/##.mb-4.truncate.flex-row.flex
+/^.*?lxmanga.*?$/##.text-center.pb-4
+/^.*?lxmanga.*?$/##.space-y-2.flex-col.flex.px-3.py-2.w-full
+/^.*?lxmanga.*?$/##.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
+/^.*?lxmanga.*?$/##^.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex.mb-4 > .justify-start.flex-col.flex.p-4 > .font-semibold.uppercase.mb-2.text-xl
+/^.*?lxmanga.*?$/##^.cursor-pointer.items-center.inline-flex
+/^.*?lxmanga.*?$/##^.mt-2.w-full.dark\:hover\:bg-gray-700.hover\:bg-gray-200.relative.dark\:border-gray-600.rounded-lg.border-2.py-1.px-3
+/^.*?lxmanga.*?$/##^.font-semibold.uppercase.mb-2.text-xl
+/^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
+/^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
+!
 /^.*?blogtruyenmoi.*?$/##^.text-right.col-xs-6.col-sm-6 > a.btn-default.btn
 /^.*?blogtruyenmoi.*?$/##^.navbar-nav.nav
 /^.*?blogtruyenmoi.*?$/##^.navbar-toggle
@@ -36,6 +85,67 @@
 /^.*?nettruyen.*?$/##^.comment
 /^.*?nettruyen.*?$/##^.footer
 !
+/^.*?truyenqq.*?$/##^.logo
+/^.*?truyenqq.*?$/##^.right button
+/^.*?truyenqq.*?$/##^.mega_menu.pc_hover.tags_name
+/^.*?truyenqq.*?$/##^li.menu_hidden > .pc_hover.tags_name
+/^.*?truyenqq.*?$/##^.mobile_display.nav_menu
+/^.*?truyenqq.*?$/##^.homepage_suggest
+/^.*?truyenqq.*?$/##^.homepage_tags
+/^.*?truyenqq.*?$/##^.dark > .div_middle
+!
+/^.*?truyenqq.*?$/##^.story-detail-menu
+/^.*?truyenqq.*?$/##^.comment-container
+!
+/^.*?truyenqq.*?$/##^.banner
+/^.*?truyenqq.*?$/##^.note-server
+/^.*?truyenqq.*?$/##^.btn-warning.btn.alertError
+/^.*?truyenqq.*?$/##^.mrt10.alert-info.alert
+!
+otakusan.net##^.pull-right.main-button.btn-raised.btn-primary.btn
+/^.*?otakusan.*?$/$replace=/(<a class="navbar-brand"[\s\S]*?>)[\s\S]*?<\/a>/<a class="navbar-brand" href="\/"><span class="f">Trang Chủ<\/span><\/a>/
+/^.*?otakusan.*?$/##^.navbar-nav.nav
+/^.*?otakusan.*?$/##^.navbar-toggle
+/^.*?otakusan.*?$/##^#comic-gate
+/^.*?otakusan.*?$/##^#manga-gate
+/^.*?otakusan.*?$/##^#manhwa-gate
+/^.*?otakusan.*?$/##^#manhua-gate
+/^.*?otakusan.*?$/##^#ecchi-gate
+/^.*?otakusan.*?$/##^#wallpaper-gate
+/^.*?otakusan.*?$/##^#daily-view-ranking
+/^.*?otakusan.*?$/##^.group-header-dot
+/^.*?otakusan.*?$/##^.donation-panel
+/^.*?otakusan.*?$/##^#bottom-action-bar
+/^.*?otakusan.*?$/##^#report-bug
+/^.*?otakusan.*?$/##^.mega-footer
+!
+/^.*?otakusan.*?$/##^.collection-header
+/^.*?otakusan.*?$/##^.shoppe-ad.picture-ad
+/^.*?otakusan.*?$/##.type-1.loaded.affiliate-ad
+/^.*?otakusan.*?$/##.process-action
+/^.*?otakusan.*?$/##.type-4.loaded.affiliate-ad
+!
+/^.*?otakusan.*?$/##^.shadow-z-1-home.wal.collection
+!
+/^.*?otakusan.*?$/##^.user-input
+/^.*?otakusan.*?$/##^.btn-action-extend.btn-fab-small.btn-raised.btn-primary.btn
+/^.*?otakusan.*?$/##^.vertical-banner
+/^.*?otakusan.*?$/##^.mb-1.spe-bar
+/^.*?otakusan.*?$/##^.upload-tab.nav-tabs.nav
+/^.*?otakusan.*?$/##^#chapter-helper
+/^.*?otakusan.*?$/##^.table-info-2.group-header
+/^.*?otakusan.*?$/##^.table-info-2.text-center.table-sm.table-striped.table
+/^.*?otakusan.*?$/###comment-group
+/^.*?otakusan.*?$/##^.main-comment.comment-control
+/^.*?otakusan.*?$/##^#comment-group > .group-header
+/^.*?otakusan.*?$/##^#fb-message
+!
+/^.*?otakusan.*?$/##^.image-hint
+/^.*?otakusan.*?$/##^.bot-info
+/^.*?otakusan.*?$/##^.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
+/^.*?otakusan.*?$/##^#comment-group > .btn-raised.btn-primary.btn
+/^.*?otakusan.*?$/##^#comment-group > p
+!
 /^.*?vuighe.*?$/$replace=/(<a class=""[\s\S]*?>)[\s\S]*?<\/a>/<a href="\/" style="display: grid; place-items: center;">Trang chủ<\/a>/
 /^.*?vuighe.*?$/##^.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
 /^.*?vuighe.*?$/##^.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
@@ -69,6 +179,7 @@
 /^.*?anime47.*?$/##^.header-list-index
 /^.*?anime47.*?$/$replace=/Mới cập nhật://
 /^.*?anime47.*?$/##^.name
+/^.*?anime47.*?$/##div.fb_iframe_widget_fluid.fb_iframe_widget.like-at-content.fb-like > span
 /^.*?anime47.*?$/##^#film-content > p
 /^.*?anime47.*?$/##^.play_comment
 !
@@ -94,6 +205,7 @@
 /^.*?hhhay.*?$/##^.watch-page.title-block
 /^.*?hhhay.*?$/##^.halim--notice
 /^.*?hhhay.*?$/##^.\/.button-watch
+/^.*?hhhay.*?$/##^.ann_text > p
 /^.*?hhhay.*?$/##^.nav-tabs.nav
 /^.*?hhhay.*?$/##^.clearfix.fb-comment.htmlwrap
 /^.*?hhhay.*?$/##^#footer
@@ -138,85 +250,4 @@
 /^.*?animevietsub.*?$/##^.pc-catfixx
 /^.*?animevietsub.*?$/##^.mobile-catfixx
 /^.*?animevietsub.*?$/##^.Footer
-!
-/^.*?hen.*?vn.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
-/^.*?hen.*?vn.*?$/##^.headerclick_2
-/^.*?hen.*?vn.*?$/##^#tag_z
-/^.*?hen.*?vn.*?$/##^[href="/forum/"]
-/^.*?hen.*?vn.*?$/##^.container > p
-/^.*?hen.*?vn.*?$/##^.bar-titlewhite
-/^.*?hen.*?vn.*?$/##^.size_70
-/^.*?hen.*?vn.*?$/##^.main > div.page-70 > .block-right-top
-/^.*?hen.*?vn.*?$/##^.main_top
-/^.*?hen.*?vn.*?$/##^.main_top2
-/^.*?hen.*?vn.*?$/##^.main_top3
-/^.*?hen.*?vn.*?$/##^div.page-70 > .page-70
-/^.*?hen.*?vn.*?$/##^.qx_135
-!
-/^.*?hen.*?vn.*?$/##^.page_like
-/^.*?hen.*?vn.*?$/##^.bookmark
-/^.*?hen.*?vn.*?$/##^.size_80
-/^.*?hen.*?vn.*?$/##^.page-70 > .green.page-title
-/^.*?hen.*?vn.*?$/##^#inner-infotimemobile
-/^.*?hen.*?vn.*?$/##^.page-uploader
-/^.*?hen.*?vn.*?$/##^.red.page-title
-/^.*?hen.*?vn.*?$/##^div.page-70 > .content-row-2
-!
-/^.*?hen.*?vn.*?$/##^#inner-randommobile
-/^.*?hen.*?vn.*?$/##^.footer
-!
-/^.*?lxmanga.*?$/##^.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
-/^.*?lxmanga.*?$/##^.font-bold.truncate.grow
-/^.*?lxmanga.*?$/##^ul > [href="/"]
-/^.*?lxmanga.*?$/##^[href="/shop"]
-/^.*?lxmanga.*?$/##^[href="/my/pets"]
-/^.*?lxmanga.*?$/##^[href="/theo-doi"]
-/^.*?lxmanga.*?$/##^[href="/lich-su"]
-/^.*?lxmanga.*?$/##^[href="/my/achievements"]
-/^.*?lxmanga.*?$/##^[href="https://www.facebook.com/Shoplxer"]
-/^.*?lxmanga.*?$/##^.h-16.justify-between.items-center.flex.relative > .justify-center.items-center.flex
-/^.*?lxmanga.*?$/##^.sm\:inset-auto.sm\:static.pr-2.items-center.flex.right-0.inset-y-0.absolute > .truncate.flex
-/^.*?lxmanga.*?$/##^.md\:mt-\[140px\].mt-\[80px\].w-full.px-3.mx-auto.max-w-7xl > .dark\:shadow-gray-900.rounded.shadow-md.dark\:bg-gray-900.bg-white.p-3.dark\:border-gray-600.border-gray-100.border-2
-/^.*?lxmanga.*?$/##^.justify-start.flex-col.flex.p-2
-/^.*?lxmanga.*?$/##^.md\:grid-cols-8.grid-cols-3.grid
-!
-/^.*?lxmanga.*?$/##.cursor-pointer.hover\:bg-pink-500.relative.rounded-lg.border-2.py-2.px-3.bg-pink-400.justify-center.flex
-/^.*?lxmanga.*?$/##.mb-4.truncate.flex-row.flex
-/^.*?lxmanga.*?$/##.text-center.pb-4
-/^.*?lxmanga.*?$/##.space-y-2.flex-col.flex.px-3.py-2.w-full
-/^.*?lxmanga.*?$/##.dark\:bg-gray-800.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.mb-4.items-center.flex.rounded-lg
-/^.*?lxmanga.*?$/##^.shadow-md.dark\:bg-gray-900.bg-white.dark\:border-gray-600.border-gray-100.border-2.w-full.rounded-lg.flex-col.flex.mb-4 > .justify-start.flex-col.flex.p-4 > .font-semibold.uppercase.mb-2.text-xl
-/^.*?lxmanga.*?$/##^.cursor-pointer.items-center.inline-flex
-/^.*?lxmanga.*?$/##^.mt-2.w-full.dark\:hover\:bg-gray-700.hover\:bg-gray-200.relative.dark\:border-gray-600.rounded-lg.border-2.py-1.px-3
-/^.*?lxmanga.*?$/##^.font-semibold.uppercase.mb-2.text-xl
-/^.*?lxmanga.*?$/##^.mt-3.gap-4.grid-cols-3.grid
-/^.*?lxmanga.*?$/##^.mt-12.text-white.text-center
-!
-/^.*?hen.*?me.*?$/$replace=/(<a[\s\S]*?class="header-logo"[\s\S]*?>)[\s\S]<\/a>/<a href="\/"> Trang chủ <\/a>/
-/^.*?hen.*?me.*?$/##^.headerclick_2
-/^.*?hen.*?me.*?$/##^#tag_z
-/^.*?hen.*?me.*?$/##^[href="/forum/"]
-/^.*?hen.*?me.*?$/##^.container > p
-/^.*?hen.*?me.*?$/##^.bar-titlewhite
-/^.*?hen.*?me.*?$/##^.size_70
-/^.*?hen.*?me.*?$/##^.main > div.page-70 > .block-right-top
-/^.*?hen.*?me.*?$/##^.main_top
-/^.*?hen.*?me.*?$/##^.main_top2
-/^.*?hen.*?me.*?$/##^.main_top3
-/^.*?hen.*?me.*?$/##^div.page-70 > .page-70
-/^.*?hen.*?me.*?$/##^.qx_135
-!
-/^.*?hen.*?me.*?$/##^.page_like
-/^.*?hen.*?me.*?$/##^.bookmark
-/^.*?hen.*?me.*?$/##^.size_80
-/^.*?hen.*?me.*?$/##^.page-70 > .green.page-title
-/^.*?hen.*?me.*?$/##^#inner-infotimemobile
-/^.*?hen.*?me.*?$/##^.page-uploader
-/^.*?hen.*?me.*?$/##^.red.page-title
-/^.*?hen.*?me.*?$/##^div.page-70 > .content-row-2
-!
-/^.*?hen.*?me.*?$/##^#inner-randommobile
-/^.*?hen.*?me.*?$/##^.footer
-!
-/^.*?hen.*?me.*?$/$replace=/(<a href="https:\/\/zhentaivn.net)/<a href="https:\/\/hentaiayame.com/g
 !
