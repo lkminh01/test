@@ -126,22 +126,22 @@
 /^.*?truyenqq.*?$/##.btn-warning.btn.alertError
 /^.*?truyenqq.*?$/##.mrt10.alert-info.alert
 !
+/^.*?otakusan.*?$/##.logo
+/^.*?otakusan.*?$/##.menu
 /^.*?otakusan.*?$/##.pull-right.main-button.btn-raised.btn-primary.btn
-/^.*?otakusan.*?$/##.navbar-nav.nav
-/^.*?otakusan.*?$/##.navbar-toggle
 /^.*?otakusan.*?$/###comic-gate
 /^.*?otakusan.*?$/###manga-gate
 /^.*?otakusan.*?$/###manhwa-gate
-/^.*?otakusan.*?$/###manhua-gate
 /^.*?otakusan.*?$/###ecchi-gate
-/^.*?otakusan.*?$/###wallpaper-gate
-/^.*?otakusan.*?$/###daily-view-ranking
 /^.*?otakusan.*?$/##.group-header-dot
+/^.*?otakusan.*?$/##.grid
+/^.*?otakusan.*?$/##.processed.first.process-container
 /^.*?otakusan.*?$/##.donation-panel
-/^.*?otakusan.*?$/###bottom-action-bar
 /^.*?otakusan.*?$/###report-bug
+/^.*?otakusan.*?$/###bottom-action-bar
 /^.*?otakusan.*?$/##.mega-footer
 !
+/^.*?otakusan.*?$/##.shadow-z-2.navbar-default.navbar
 /^.*?otakusan.*?$/##.collection-header
 /^.*?otakusan.*?$/##.shoppe-ad.picture-ad
 /^.*?otakusan.*?$/##.type-1.loaded.affiliate-ad
@@ -150,24 +150,21 @@
 !
 /^.*?otakusan.*?$/##.shadow-z-1-home.wal.collection
 !
-/^.*?otakusan.*?$/##.user-input
 /^.*?otakusan.*?$/##.btn-action-extend.btn-fab-small.btn-raised.btn-primary.btn
-/^.*?otakusan.*?$/##.vertical-banner
+/^.*?otakusan.*?$/##.user-input
+/^.*?otakusan.*?$/##.table-info.text-center.table-sm.table-striped.table > tbody
+/^.*?otakusan.*?$/##.table-info-2.group-header
+/^.*?otakusan.*?$/##.table-info-2.text-center.table-sm.table-striped.table > tbody
 /^.*?otakusan.*?$/##.mb-1.spe-bar
 /^.*?otakusan.*?$/##.upload-tab.nav-tabs.nav
 /^.*?otakusan.*?$/###chapter-helper
-/^.*?otakusan.*?$/##.table-info-2.group-header
-/^.*?otakusan.*?$/##.table-info-2.text-center.table-sm.table-striped.table
-/^.*?otakusan.*?$/###comment-group
 /^.*?otakusan.*?$/##.main-comment.comment-control
 /^.*?otakusan.*?$/###comment-group > .group-header
 /^.*?otakusan.*?$/###fb-message
+/^.*?otakusan.*?$/###comment-group
 !
 /^.*?otakusan.*?$/##.image-hint
 /^.*?otakusan.*?$/##.bot-info
-/^.*?otakusan.*?$/##.fb_iframe_widget_fluid.fb_iframe_widget.fb-like
-/^.*?otakusan.*?$/###comment-group > .btn-raised.btn-primary.btn
-/^.*?otakusan.*?$/###comment-group > p
 !
 /^.*?vuighe.*?$/##.s768\:order-1.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
 /^.*?vuighe.*?$/##.s768\:order-2.dark\:s768\:hover\:text-teal-500.s768\:hover\:text-red-600.s768\:rounded-full.s768\:border.dark\:s768\:border-gray-700.s768\:h-\[30px\].navbar-item
