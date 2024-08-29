@@ -1,24 +1,24 @@
-/^.*?hen.*?vn.*?$/##.headerclick_2
-/^.*?hen.*?vn.*?$/###tag_z
-/^.*?hen.*?vn.*?$/##[href="/forum/"]
-/^.*?hen.*?vn.*?$/##.container > p
-/^.*?hen.*?vn.*?$/##.bar-titlewhite
-/^.*?hen.*?vn.*?$/##.size_70
-/^.*?hen.*?vn.*?$/##.main > div.page-70 > .block-right-top
-/^.*?hen.*?vn.*?$/##.main_top
-/^.*?hen.*?vn.*?$/##.main_top2
-/^.*?hen.*?vn.*?$/##.main_top3
-/^.*?hen.*?vn.*?$/##div.page-70 > .page-70
+/^.*?hen.*vn.*?$/##.headerclick_2
+/^.*?hen.*vn.*?$/###tag_z
+/^.*?hen.*vn.*?$/##[href="/forum/"]
+/^.*?hen.*vn.*?$/##.container > p
+/^.*?hen.*vn.*?$/##.bar-titlewhite
+/^.*?hen.*vn.*?$/##.size_70
+/^.*?hen.*vn.*?$/##.main > div.page-70 > .block-right-top
+/^.*?hen.*vn.*?$/##.main_top
+/^.*?hen.*vn.*?$/##.main_top2
+/^.*?hen.*vn.*?$/##.main_top3
+/^.*?hen.*vn.*?$/##div.page-70 > .page-70
 !
-/^.*?hen.*?vn.*?$/##.qx_270
+/^.*?hen.*vn.*?$/##.qx_270
 !
-/^.*?hen.*?vn.*?$/##.page_like
-/^.*?hen.*?vn.*?$/##.bookmark
-/^.*?hen.*?vn.*?$/##.size_80
-/^.*?hen.*?vn.*?$/##.page-uploader
-/^.*?hen.*?vn.*?$/##.red.page-title
-/^.*?hen.*?vn.*?$/##div.page-70 > .content-row-2
-/^.*?hen.*?vn.*?$/##.footer
+/^.*?hen.*vn.*?$/##.page_like
+/^.*?hen.*vn.*?$/##.bookmark
+/^.*?hen.*vn.*?$/##.size_80
+/^.*?hen.*vn.*?$/##.page-uploader
+/^.*?hen.*vn.*?$/##.red.page-title
+/^.*?hen.*vn.*?$/##div.page-70 > .content-row-2
+/^.*?hen.*vn.*?$/##.footer
 !
 /^.*?lxmanga.*?$/##.img-div-center.mt-1.h-\[50px\].w-\[50px\].rounded-md
 /^.*?lxmanga.*?$/##.font-bold.truncate.grow
