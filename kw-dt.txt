@@ -54,6 +54,12 @@
 /^.*?blogtruyenmoi.*?$/##.widget-forum-comment
 /^.*?blogtruyenmoi.*?$/##.mt10.mb10.pd10.bg-white.view-type > .pull-left
 /^.*?blogtruyenmoi.*?$/##.widget-pinned
+/^.*?blogtruyenmoi.*?$/##^div > iframe
+/^.*?blogtruyenmoi.*?$/##div:nth-of-type(4)
+/^.*?blogtruyenmoi.*?$/##div:nth-of-type(5)
+/^.*?blogtruyenmoi.*?$/##[href="https://img.blogtruyenmoi.com/sharex/shopee.jpg"]
+/^.*?blogtruyenmoi.*?$/##[href="https://s.shopee.vn/7fGhBpeKcr"]
+/^.*?blogtruyenmoi.*?$/##[href="https://s.shopee.vn/7UxGzb8HoZ"]
 !
 /^.*?blogtruyenmoi.*?$/##.mt15.bt-bookmark
 /^.*?blogtruyenmoi.*?$/##.area-comment
