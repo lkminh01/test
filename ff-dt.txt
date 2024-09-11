@@ -220,7 +220,7 @@
 /^.*?hhhay.*?$/##^.footer-credit
 /^.*?hhhay.*?$/$replace=/(<div id="easy-top"[\s\S]*?>)[\s\S]*?<\/div>/<br><br><br><div id="easy-top"><\/div>/
 !
-/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
+/^.*?animevietsub.*?$/$replace=/(<img[\s\S]*?alt="Logo"[\s\S]*?>)[\s\S]*?<\/figure>/<h4>Trang chủ<\/h4><\/a><\/figure>/
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtn.Button
 /^.*?animevietsub.*?$/##^.CXHd.AAShwHdd-lnk.MenuBtnClose
 /^.*?animevietsub.*?$/##^.Login
