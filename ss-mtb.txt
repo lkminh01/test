@@ -249,6 +249,7 @@ animevietsub.*##.Top
 animevietsub.*###new-home
 animevietsub.*###hot-home
 animevietsub.*##.widget-area
+animevietsub.*##.ad-center-header.Adv
 !
 animevietsub.*##.SearchMovies.list-movie-filter
 animevietsub.*##.filter-toggle
