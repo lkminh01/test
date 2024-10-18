@@ -279,3 +279,4 @@
 /^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
 !
 /^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
+!
