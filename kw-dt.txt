@@ -256,3 +256,23 @@
 /^.*?animevietsub.*?$/##.mobile-catfixx
 /^.*?animevietsub.*?$/##.Footer
 !
+/^.*?cuutruyen.*?$/##.max-w-full.justify-end.flex.flex-1 > div.relative
+/^.*?cuutruyen.*?$/##.select-none.px-2.snap.gap-4.hide-scrollbar.z-10.relative.md\:translate-y-\[calc\(7rem\)\].translate-y-\[calc\(5rem\)\].w-full.flex.overflow-x-auto.snap-mandatory.snap-x.scroll-smooth
+/^.*?cuutruyen.*?$/##.md\:h-3.h-2\.5.mt-3.gap-1.justify-center.flex
+/^.*?cuutruyen.*?$/###new-update > .lg\:mb-12.mb-8.common-container
+/^.*?cuutruyen.*?$/###best-mangas
+/^.*?cuutruyen.*?$/###best-teams
+/^.*?cuutruyen.*?$/##.lg\:h-13.lg\:w-13.md\:h-12.md\:w-12.h-8.w-8
+!
+/^.*?cuutruyen.*?$/##.lg\:mb-12.mb-8.common-container
+/^.*?cuutruyen.*?$/##.lg\:justify-start.items-stretch.justify-center.gap-2.md\:flex-row.flex-col.flex
+/^.*?cuutruyen.*?$/##.items-center.gap-2.flex
+/^.*?cuutruyen.*?$/##.p-4.bg-gray-200
+/^.*?cuutruyen.*?$/##.mx-auto.text-center.max-w-md.overflow-auto.md\:h-36.h-40.mt-12.text-sm.text-gray-500
+!
+||cuutruyen.net/img/oneshot-dayruined.c08eab6c.jpg$image
+/^.*?cuutruyen.*?$/##.mt-12.items-center.flex-col.flex.text-sm.text-gray-600
+/^.*?cuutruyen.*?$/##.w-16.justify-center.items-center.flex.fine-transition.text-sm.text-white.hover\:bg-blue-800.bg-blue-600.px-6.h-full.button-bare
+!
+/^.*?cuutruyen.*?$/##.py-16.border-gray-800.border-t-2.bg-gray-800.px-2
+!
